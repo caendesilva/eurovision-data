@@ -1,0 +1,1734 @@
+{"Refrain":"Lys Assia (Switzerland, 1956)"}
+{"De Vogels Van Holland":"Jetty Paerl (Netherlands, 1956)"}
+{"Messieurs Les Noy\u00e9s De La Seine":"Fud Leclerc (Belgium, 1956)"}
+{"Im Wartesaal Zum Gro\u00dfen Gl\u00fcck":"Walter Andreas Schwarz (Germany, 1956)"}
+{"Le Temps Perdu":"Math\u00e9 Alt\u00e9ry (France, 1956)"}
+{"Ne Crois Pas":"Mich\u00e8le Arnaud (Luxembourg, 1956)"}
+{"Aprite Le Finestre":"Franca Raimondi (Italy, 1956)"}
+{"Voorgoed Voorbij":"Corry Brokken (Netherlands, 1956)"}
+{"Le Plus Beau Jour De Ma Vie":"Mony Marc (Belgium, 1956)"}
+{"So Geht Das Jede Nacht":"Freddy Quinn (Germany, 1956)"}
+{"Il Est L\u00e0":"Dany Dauberson (France, 1956)"}
+{"Amami Se Vuoi":"Tonina Torielli (Italy, 1956)"}
+{"Net Als Toen":"Corry Brokken (Netherlands, 1957)"}
+{"La Belle Amour":"Paule Desjardins (France, 1957)"}
+{"Skibet Skal Sejle I Nat":"Birthe Wilke & Gustav Winckler (Denmark, 1957)"}
+{"Amours Mortes (Tant De Peine)":"Dani\u00e8le Dupr\u00e9 (Luxembourg, 1957)"}
+{"Telefon, Telefon":"Margot Hielscher (Germany, 1957)"}
+{"Corde Della Mia Chitarra":"Nunzio Gallo (Italy, 1957)"}
+{"All":"Patricia Bredin (United Kingdom, 1957)"}
+{"Straatdeuntje":"Bobbejaan Schoepen (Belgium, 1957)"}
+{"L'enfant Que J'\u00e9tais":"Lys Assia (Switzerland, 1957)"}
+{"Wohin, Kleines Pony":"Bob Martin (Austria, 1957)"}
+{"Dors Mon Amour":"Andr\u00e9 Claveau (France, 1958)"}
+{"Giorgio":"Lys Assia (Switzerland, 1958)"}
+{"Nel Blu Dipinto Di Blu":"Domenico Modugno (Italy, 1958)"}
+{"Lilla Stj\u00e4rna":"Alice Babs (Sweden, 1958)"}
+{"Ma Petite Chatte":"Fud Leclerc (Belgium, 1958)"}
+{"Die Ganze Welt Braucht Liebe":"Liane Augustin (Austria, 1958)"}
+{"F\u00fcr Zwei Groschen Musik":"Margot Hielscher (Germany, 1958)"}
+{"Jeg Rev Et Blad Ud Af Min Dagbog":"Raquel Rastenni (Denmark, 1958)"}
+{"Heel De Wereld":"Corry Brokken (Netherlands, 1958)"}
+{"Un Grand Amour":"Solange Berry (Luxembourg, 1958)"}
+{"Een Beetje":"Teddy Scholten (Netherlands, 1959)"}
+{"Sing Little Birdie":"Pearl Carr & Teddy Johnson (United Kingdom, 1959)"}
+{"Oui, Oui, Oui, Oui":"Jean Philippe (France, 1959)"}
+{"Irgendwoher":"Christa Williams (Switzerland, 1959)"}
+{"Uh, Jeg Ville \u00d8nske Jeg Var Dig":"Birthe Wilke (Denmark, 1959)"}
+{"Piove":"Domenico Modugno (Italy, 1959)"}
+{"Hou Toch Van Mij":"Bob Benny (Belgium, 1959)"}
+{"Heut' Woll'n Wir Tanzen Geh'n":"Alice and Ellen Kessler (Germany, 1959)"}
+{"Augustin":"Brita Borg (Sweden, 1959)"}
+{"Der K. Und K. Kalypso Aus Wien":"Ferry Graf (Austria, 1959)"}
+{"Mon Ami Pierrot":"Jacques Pills (Monaco, 1959)"}
+{"Tom Pillibi":"Jacqueline Boyer (France, 1960)"}
+{"Looking High, High, High":"Bryan Johnson (United Kingdom, 1960)"}
+{"Ce Soir-l\u00e0":"Fran\u00e7ois Deguelt (Monaco, 1960)"}
+{"Voi-voi":"Nora Brockstedt (Norway, 1960)"}
+{"Bonne Nuit, Ma Ch\u00e9rie!":"Wyn Hoop (Germany, 1960)"}
+{"Mon Amour Pour Toi":"Fud Leclerc (Belgium, 1960)"}
+{"Du Hast Mich So Fasziniert":"Harry Winter (Austria, 1960)"}
+{"Cielo E Terra":"Anita Traversi (Switzerland, 1960)"}
+{"Romantica":"Renato Rascel (Italy, 1960)"}
+{"Alla Andra F\u00e5r Varann":"Siw Malmkvist (Sweden, 1960)"}
+{"Det Var En Yndig Tid":"Katy B\u00f8dtger (Denmark, 1960)"}
+{"Wat Een Geluk":"Rudi Carrell (Netherlands, 1960)"}
+{"So Laang We's Du Do Bast":"Camillo Felgen (Luxembourg, 1960)"}
+{"Nous Les Amoureux":"Jean-Claude Pascal (Luxembourg, 1961)"}
+{"Are You Sure?":"The Allisons (United Kingdom, 1961)"}
+{"Nous Aurons Demain":"Franca di Rienzo (Switzerland, 1961)"}
+{"Printemps (avril Carillonne)":"Jean-Paul Mauric (France, 1961)"}
+{"Angelique":"Dario Campeotto (Denmark, 1961)"}
+{"Al Di L\u00e0":"Betty Curtis (Italy, 1961)"}
+{"Sommer i Palma":"Nora Brockstedt (Norway, 1961)"}
+{"Neke Davne Zvezde":"Ljiljana Petrovi\u0107 (Yugoslavia, 1961)"}
+{"Estando Contigo":"Conchita Bautista (Spain, 1961)"}
+{"Allons, Allons Les Enfants":"Colette Der\u00e9al (Monaco, 1961)"}
+{"Valoa Ikkunassa":"Laila Kinnunen (Finland, 1961)"}
+{"Wat Een Dag":"Greetje Kauffeld (Netherlands, 1961)"}
+{"Einmal Sehen Wir Uns Wieder":"Lale Andersen (Germany, 1961)"}
+{"April, April":"Lill-Babs (Sweden, 1961)"}
+{"Sehnsucht":"Jimmy Makulis (Austria, 1961)"}
+{"September, Gouden Roos":"Bob Benny (Belgium, 1961)"}
+{"Un Premier Amour":"Isabelle Aubret (France, 1962)"}
+{"Dis Rien":"Fran\u00e7ois Deguelt (Monaco, 1962)"}
+{"Petit Bonhomme":"Camillo Felgen (Luxembourg, 1962)"}
+{"Ne Pali Svetlo U Sumrak":"Lola Novakovi\u0107 (Yugoslavia, 1962)"}
+{"Ring-a-ding Girl":"Ronnie Carroll (United Kingdom, 1962)"}
+{"Zwei Kleine Italiener":"Conny Froboess (Germany, 1962)"}
+{"Tipi-tii":"Marion Rung (Finland, 1962)"}
+{"Sol Och V\u00e5r":"Inger Berggren (Sweden, 1962)"}
+{"Addio, Addio":"Claudio Villa (Italy, 1962)"}
+{"Vuggevise":"Ellen Winther (Denmark, 1962)"}
+{"Kom Sol, Kom Regn":"Inger Jacobsen (Norway, 1962)"}
+{"Le Retour":"Jean Philippe (Switzerland, 1962)"}
+{"Ton Nom":"Fud Leclerc (Belgium, 1962)"}
+{"Ll\u00e1mame":"Victor Balaguer (Spain, 1962)"}
+{"Nur In Der Wiener Luft":"Eleonore Schwarz (Austria, 1962)"}
+{"Katinka":"De Spelbrekers (Netherlands, 1962)"}
+{"Dansevise":"Grethe & J\u00f8rgen Ingmann (Denmark, 1963)"}
+{"T'en Va Pas":"Esther Ofarim (Switzerland, 1963)"}
+{"Uno Per Tutte":"Emilio Pericoli (Italy, 1963)"}
+{"Say Wonderful Things":"Ronnie Carroll (United Kingdom, 1963)"}
+{"Elle \u00e9tait Si Jolie":"Alain Barri\u00e8re (France, 1963)"}
+{"L'amour S'en Va":"Fran\u00e7oise Hardy (Monaco, 1963)"}
+{"Vielleicht Geschieht Ein Wunder":"Carmela Corren (Austria, 1963)"}
+{"A Force De Prier":"Nana Mouskouri (Luxembourg, 1963)"}
+{"Marcel":"Heidi Br\u00fchl (Germany, 1963)"}
+{"Waarom":"Jacques Raymond (Belgium, 1963)"}
+{"Brodovi":"Vice Vukov (Yugoslavia, 1963)"}
+{"Algo Prodigioso":"Jos\u00e9 Guardiola (Spain, 1963)"}
+{"Een Speeldoos":"Annie Palmen (Netherlands, 1963)"}
+{"Solhverv":"Anita Thallaug (Norway, 1963)"}
+{"Muistojeni Laulu":"Laila Halme (Finland, 1963)"}
+{"En G\u00e5ng I Stockholm":"Monica Zetterlund (Sweden, 1963)"}
+{"Non Ho L'\u00e9t\u00e0":"Gigliola Cinquetti (Italy, 1964)"}
+{"I Love The Little Things":"Matt Monro (United Kingdom, 1964)"}
+{"O\u00f9 Sont-elles Pass\u00e9es?":"Romuald (Monaco, 1964)"}
+{"D\u00e8s Que Le Printemps Revient":"Hugues Aufray (Luxembourg, 1964)"}
+{"Le Chant De Mallory":"Rachel (France, 1964)"}
+{"Warum Nur, Warum?":"Udo J\u00fcrgens (Austria, 1964)"}
+{"Laiskotellen":"Lasse M\u00e5rtenson (Finland, 1964)"}
+{"Spiral":"Arne Bendiksen (Norway, 1964)"}
+{"Sangen Om Dig":"Bj\u00f8rn Tidmand (Denmark, 1964)"}
+{"Jij Bent Mijn Leven":"Anneke Gr\u00f6nloh (Netherlands, 1964)"}
+{"Pr\u00e8s De Ma Rivi\u00e8re":"Robert Cogoi (Belgium, 1964)"}
+{"Caracola":"Tim, Nelly and Tony (Spain, 1964)"}
+{"Man Gew\u00f6hnt Sich So Schnell An Das Sch\u00f6ne":"Nora Nova (Germany, 1964)"}
+{"Ora\u00e7\u00e3o":"Ant\u00f3nio Calv\u00e1rio (Portugal, 1964)"}
+{"\u017divot je sklopio krug":"Sabahudin Kurt (Yugoslavia, 1964)"}
+{"I Miei Pensieri":"Anita Traversi (Switzerland, 1964)"}
+{"Poup\u00e9e De Cire, Poup\u00e9e De Son":"France Gall (Luxembourg, 1965)"}
+{"I Belong":"Kathy Kirby (United Kingdom, 1965)"}
+{"N'avoue Jamais":"Guy Mardel (France, 1965)"}
+{"Sag Ihr, Ich Lass' Sie Gr\u00fc\u00dfen":"Udo J\u00fcrgens (Austria, 1965)"}
+{"Se Piangi, Se Ridi":"Bobby Solo (Italy, 1965)"}
+{"I'm Walking The Streets In The Rain":"Butch Moore (Ireland, 1965)"}
+{"For Din Skyld":"Birgit Br\u00fcel (Denmark, 1965)"}
+{"Non \u00e0 Jamais Sans Toi":"Yovanna (Switzerland, 1965)"}
+{"Va Dire \u00e0 L'amour":"Marjorie No\u00ebl (Monaco, 1965)"}
+{"Absent Friend":"Ingvar Wixell (Sweden, 1965)"}
+{"Het Is Genoeg":"Conny Van den bos (Netherlands, 1965)"}
+{"Ceznja":"Vice Vukov (Yugoslavia, 1965)"}
+{"Karusell":"Kirsti Sparboe (Norway, 1965)"}
+{"Sol De Inverno":"Simone de Oliviera (Portugal, 1965)"}
+{"Qu\u00e9 Bueno, Qu\u00e9 Bueno":"Conchita Bautista (Spain, 1965)"}
+{"Paradies, Wo Bist Du?":"Ulla Wiesner (Germany, 1965)"}
+{"Als Het Weer Lente Is":"Lize Marke (Belgium, 1965)"}
+{"Aurinko Laskee L\u00e4nteen":"Viktor Klimenko (Finland, 1965)"}
+{"Merci Ch\u00e9rie":"Udo J\u00fcrgens (Austria, 1966)"}
+{"Nygammal Vals":"Lill Lindfors & Svante Thuresson (Sweden, 1966)"}
+{"Intet Er Nytt Under Solen":"\u00c5se Kleveland (Norway, 1966)"}
+{"Un Peu De Poivre, Un Peu De Sel":"Tonia (Belgium, 1966)"}
+{"Come Back To Stay":"Dickie Rock (Ireland, 1966)"}
+{"Ne Vois-tu Pas?":"Madeleine Pascal (Switzerland, 1966)"}
+{"Brez Besed":"Berta Ambroz (Yugoslavia, 1966)"}
+{"Yo Soy Aqu\u00e9l":"Raphael (Spain, 1966)"}
+{"A Man Without Love":"Kenneth McKellar (United Kingdom, 1966)"}
+{"Die Zeiger Der Uhr":"Margot Eskens (Germany, 1966)"}
+{"Ce Soir Je T'attendais":"Mich\u00e8le Torr (Luxembourg, 1966)"}
+{"Play-boy":"Ann-Christine Nystr\u00f6m (Finland, 1966)"}
+{"Ele E Ela":"Madalena Iglesias (Portugal, 1966)"}
+{"Stop, Ja Stop - Ja Stop, Mens Legen Er Go":"Ulla Pia (Denmark, 1966)"}
+{"Fernando En Philippo":"Milly Scott (Netherlands, 1966)"}
+{"Chez Nous":"Dominique Walter (France, 1966)"}
+{"Bien Plus Fort":"Tereza (Monaco, 1966)"}
+{"Dio Come Ti Amo":"Domenico Modugno (Italy, 1966)"}
+{"Puppet On A String":"Sandie Shaw (United Kingdom, 1967)"}
+{"If I Could Choose":"Sean Dunphy (Ireland, 1967)"}
+{"Il Doit Faire Beau L\u00e0-bas":"No\u00eblle Cordier (France, 1967)"}
+{"L'amour Est Bleu":"Vicky (Luxembourg, 1967)"}
+{"Boum-badaboum":"Minouche Barelli (Monaco, 1967)"}
+{"Hablemos Del Amor":"Raphael (Spain, 1967)"}
+{"Ik Heb Zorgen":"Louis Neefs (Belgium, 1967)"}
+{"Som En Dr\u00f6m":"\u00d6sten Warnerbring (Sweden, 1967)"}
+{"Anouschka":"Inge Br\u00fcck (Germany, 1967)"}
+{"Vse Ro\u017ee Sveta":"Lado Leskovar (Yugoslavia, 1967)"}
+{"Non Andare Pi\u00f9 Lontano":"Claudio Villa (Italy, 1967)"}
+{"O Vento Mudou":"Eduardo Nascimento (Portugal, 1967)"}
+{"Varjoon-suojaan":"Fredi (Finland, 1967)"}
+{"Ring-dinge":"Th\u00e9r\u00e8se Steinmetz (Netherlands, 1967)"}
+{"Warum Es Hunderttausend Sterne Gibt":"Peter Horten (Austria, 1967)"}
+{"Dukkemann":"Kirsti Sparboe (Norway, 1967)"}
+{"Quel C\u0153ur Vas-tu Briser?":"G\u00e9raldine (Switzerland, 1967)"}
+{"La, La, La...":"Massiel (Spain, 1968)"}
+{"Congratulations":"Cliff Richard (United Kingdom, 1968)"}
+{"La Source":"Isabelle Aubret (France, 1968)"}
+{"Chance Of A Lifetime":"Pat McGeegan (Ireland, 1968)"}
+{"Det B\u00f6rjar Verka K\u00e4rlek, Banne Mej":"Claes-G\u00f6ran Hederstr\u00f6m (Sweden, 1968)"}
+{"Ein Hoch Der Liebe":"Wencke Myhre (Germany, 1968)"}
+{"Quand Tu Reviendras":"Claude Lombard (Belgium, 1968)"}
+{"A Chacun Sa Chanson":"Line & Willy (Monaco, 1968)"}
+{"Jedan Dan":"Luci Kapurso & Hamo Hajdarhodzic (Yugoslavia, 1968)"}
+{"Marianne":"Sergio Endrigo (Italy, 1968)"}
+{"Ver\u00e3o":"Carlos Mendes (Portugal, 1968)"}
+{"Nous Vivrons D'amour":"Chris Baldo & Sophie Garel (Luxembourg, 1968)"}
+{"Tausend Fenster":"Karel Gott (Austria, 1968)"}
+{"Guardando Il Sole":"Gianni Mascolo (Switzerland, 1968)"}
+{"Stress":"Odd B\u00f8rre (Norway, 1968)"}
+{"Morgen":"Ronnie Tober (Netherlands, 1968)"}
+{"Kun Kello K\u00e4y":"Kristina Hautala (Finland, 1968)"}
+{"Vivo Cantando":"Salom\u00e9 (Spain, 1969)"}
+{"Boom Bang-a-bang":"Lulu (United Kingdom, 1969)"}
+{"De Troubadour":"Lenny Kuhr (Netherlands, 1969)"}
+{"Un Jour, Un Enfant":"Frida Boccara (France, 1969)"}
+{"Bonjour, Bonjour":"Paola del Medico (Switzerland, 1969)"}
+{"Maman, Maman":"Jean-Jacques (Monaco, 1969)"}
+{"The Wages Of Love":"Muriel Day and the Lindsays (Ireland, 1969)"}
+{"Jennifer Jennings":"Louis Neefs (Belgium, 1969)"}
+{"Judy, Min V\u00e4n":"Tommy K\u00f6rberg (Sweden, 1969)"}
+{"Primaballerina":"Siw Malmkvist (Germany, 1969)"}
+{"Cath\u00e9rine":"Romuald (Luxembourg, 1969)"}
+{"Kuin Silloin Ennen":"Jarkko and Laura (Finland, 1969)"}
+{"Pozdrav Svijetu":"Ivan & M's (Yugoslavia, 1969)"}
+{"Due Grosse Lacrime Bianche":"Iva Zanicchi (Italy, 1969)"}
+{"Desfolhada Portuguesa":"Simone de Oliveira (Portugal, 1969)"}
+{"Oj, Oj, Oj, S\u00e5 Glad, Jeg Skal Bli":"Kirsti Sparboe (Norway, 1969)"}
+{"All Kinds Of Everything":"Dana (Ireland, 1970)"}
+{"Knock, Knock (who's there?)":"Mary Hopkin (United Kingdom, 1970)"}
+{"Wunder Gibt Es Immer Wieder":"Katja Ebstein (Germany, 1970)"}
+{"Retour":"Henri D\u00e8s (Switzerland, 1970)"}
+{"Marie Blanche":"Guy Bonnet (France, 1970)"}
+{"Gwendolyne":"Julio Iglesias (Spain, 1970)"}
+{"Waterman":"Patricia and Hearts of Soul (Netherlands, 1970)"}
+{"Occhi Di Ragazza":"Gianni Morandi (Italy, 1970)"}
+{"Viens L'oublier":"Jean Vall\u00e9e (Belgium, 1970)"}
+{"Marl\u00e8ne":"Dominique Dussault (Monaco, 1970)"}
+{"Pridi, Dala Ti Bom Cvet":"Eva Sr\u0161en (Yugoslavia, 1970)"}
+{"Je Suis Tomb\u00e9 Du Ciel":"David-Alexandre Winter (Luxembourg, 1970)"}
+{"Un Banc, Un Arbre, Une Rue":"S\u00e9verine (Monaco, 1971)"}
+{"En Un Mundo Nuevo":"Karina (Spain, 1971)"}
+{"Diese Welt":"Katja Ebstein (Germany, 1971)"}
+{"Jack In The Box":"Clodagh Rodgers (United Kingdom, 1971)"}
+{"L'amore \u00e8 Un Attimo":"Massimo Ranieri (Italy, 1971)"}
+{"Vita Vidder":"Family Four (Sweden, 1971)"}
+{"De Tijd":"Saskia and Serge (Netherlands, 1971)"}
+{"Tie Uuteen P\u00e4iv\u00e4\u00e4n":"Markku Aro and Koivisto Sisters (Finland, 1971)"}
+{"Menina Do Alto Da Serra":"Tonicha (Portugal, 1971)"}
+{"Un Jardin Sur La Terre":"Serge Lama (France, 1971)"}
+{"One Day Love":"Angela Farrell (Ireland, 1971)"}
+{"Les Illusions De Nos Vingt Ans":"Peter, Sue and Marc (Switzerland, 1971)"}
+{"Pomme, Pomme, Pomme":"Monique Melsen (Luxembourg, 1971)"}
+{"Goeie Morgen, Morgen":"Lily Castel and Jacques Raymond (Belgium, 1971)"}
+{"Tvoj Djecak Je Tuzan":"Krunoslav Slabinac (Yugoslavia, 1971)"}
+{"Musik":"Marianne Mendt (Austria, 1971)"}
+{"Lykken Er...":"Hanne Krogh (Norway, 1971)"}
+{"Marija L-Maltija":"Joe Grech (Malta, 1971)"}
+{"Apr\u00e8s Toi":"Vicky Leandros (Luxembourg, 1972)"}
+{"Beg, Steal Or Borrow":"The New Seekers (United Kingdom, 1972)"}
+{"Nur Die Liebe L\u00e4\u00dft Uns Leben":"Mary Roos (Germany, 1972)"}
+{"Als Het Om De Liefde Gaat":"Sandra and Andres (Netherlands, 1972)"}
+{"Falter Im Wind":"The Milestones (Austria, 1972)"}
+{"I Giorni Dell' Arcobaleno":"Nicola di Bari (Italy, 1972)"}
+{"A Festa Da Vida":"Carlos Mendes (Portugal, 1972)"}
+{"C'est La Chanson De Mon Amour":"V\u00e9ronique M\u00fcller (Switzerland, 1972)"}
+{"Muzika I Ti":"Tereza (Yugoslavia, 1972)"}
+{"Amanece":"Jaime Morey (Spain, 1972)"}
+{"Com\u00e9-com\u00e9die":"Betty Mars (France, 1972)"}
+{"Muistathan":"P\u00e4ivi Paunu and Kim Floor (Finland, 1972)"}
+{"H\u00e4rliga Sommardag":"Family Four (Sweden, 1972)"}
+{"Sm\u00e5ting":"Grethe Kausland & Benny Borg (Norway, 1972)"}
+{"Ceol On Ghr\u00e1":"Sandie Jones (Ireland, 1972)"}
+{"Comme On S'aime":"Anne-Marie Godart and Peter MacLane (Monaco, 1972)"}
+{"\u00c0 La Folie Ou Pas Du Tout":"Serge and Christine Ghisoland (Belgium, 1972)"}
+{"L-im\u0127abba":"Helen and Joseph (Malta, 1972)"}
+{"Tu Te Reconna\u00eetras":"Anne-Marie David (Luxembourg, 1973)"}
+{"Eres T\u00fa":"Mocedades (Spain, 1973)"}
+{"Power To All Our Friends":"Cliff Richard (United Kingdom, 1973)"}
+{"Ey-sham":"Ilanit (Israel, 1973)"}
+{"You're Summer":"The Nova and The Dolls (Sweden, 1973)"}
+{"Tom Tom Tom":"Marion Rung (Finland, 1973)"}
+{"It's Just A Game":"Bendik Singers (Norway, 1973)"}
+{"Junger Tag":"Gitte (Germany, 1973)"}
+{"Un Train Qui Part":"Marie (Monaco, 1973)"}
+{"Tourada":"Fernando Tordo (Portugal, 1973)"}
+{"Do I Dream?":"Maxi (Ireland, 1973)"}
+{"Je Me Vais Marier, Marie":"Patrick Juvet (Switzerland, 1973)"}
+{"Chi Sar\u00e0 Con Te":"Massimo Ranieri (Italy, 1973)"}
+{"De Oude Muzikant":"Ben Cramer (Netherlands, 1973)"}
+{"Gori Vatra":"Zdravko Colic (Yugoslavia, 1973)"}
+{"Sans Toi":"Martine Cl\u00e9menceau (France, 1973)"}
+{"Baby, Baby":"Nicole and Hugo (Belgium, 1973)"}
+{"Waterloo":"ABBA (Sweden, 1974)"}
+{"Si":"Gigliola Cinquetti (Italy, 1974)"}
+{"I See A Star":"Mouth and MacNeal (Netherlands, 1974)"}
+{"Long Live Love":"Olivia Newton-John (United Kingdom, 1974)"}
+{"Bye, Bye, I Love You":"Ireen Sheer (Luxembourg, 1974)"}
+{"Celui Qui Reste Et Celui Qui S'en Va":"Romuald (Monaco, 1974)"}
+{"Natati La Khayay":"Kaveret (Poogy) (Israel, 1974)"}
+{"Cross Your Heart":"Tina (Ireland, 1974)"}
+{"Canta Y Se Feliz":"Peret (Spain, 1974)"}
+{"Fleur De Libert\u00e9":"Jacques Hustin (Belgium, 1974)"}
+{"Krassi, Thalassa Ke T'agori Mou":"Marinella (Greece, 1974)"}
+{"Moja Generacija":"Korni (Yugoslavia, 1974)"}
+{"\u00c4la Mene Pois (keep Me Warm)":"Carita (Finland, 1974)"}
+{"The First Day Of Love":"Anne-Karine Str\u00f6m and the Bendik Singers (Norway, 1974)"}
+{"Die Sommermelodie":"Cindy und Bert (Germany, 1974)"}
+{"Mein Ruf Nach Dir":"Piera Martell (Switzerland, 1974)"}
+{"E Depois Do Adeus":"Paulo de Carvalho (Portugal, 1974)"}
+{"Ding-A-Dong":"Teach-In (Netherlands, 1975)"}
+{"Let Me Be The One":"The Shadows (United Kingdom, 1975)"}
+{"Era":"Wess & Dori Ghezzi (Italy, 1975)"}
+{"Et Bonjour \u00e0 Toi L'artiste":"Nicole Rieu (France, 1975)"}
+{"Toi":"G\u00e9raldine (Luxembourg, 1975)"}
+{"Mikado":"Simone Drexel (Switzerland, 1975)"}
+{"Old Man Fiddle":"Pihasoittajat (Finland, 1975)"}
+{"Jennie, Jennie":"Lars Berghagen and the Dolls (Sweden, 1975)"}
+{"That's What Friends Are For":"The Swarbriggs (Ireland, 1975)"}
+{"T\u00fa Volver\u00e1s":"Sergio & Est\u00edbaliz (Spain, 1975)"}
+{"At Va'Ani":"Shlomo Artzi (Israel, 1975)"}
+{"Singing This Song":"Renato (Malta, 1975)"}
+{"Dan Ljubezni":"Pepel In Kri (Yugoslavia, 1975)"}
+{"Une Chanson C'est Une Lettre":"Sophie (Monaco, 1975)"}
+{"Gelukkig Zijn":"Ann Christy (Belgium, 1975)"}
+{"Madrugada":"Duarte Mendes (Portugal, 1975)"}
+{"Ein Lied Kann Eine Br\u00fccke Sein":"Joy Fleming (Germany, 1975)"}
+{"You Touched My Life With Summer":"Ellen Nikolaysen (Norway, 1975)"}
+{"Seninle Bir Dakika":"Semiha Yanki (Turkey, 1975)"}
+{"Save Your Kisses For Me":"Brotherhood of Man (United Kingdom, 1976)"}
+{"Un, Deux, Trois":"Catherine Ferry (France, 1976)"}
+{"Toi, La Musique Et Moi":"Mary Christy (Monaco, 1976)"}
+{"Djambo, Djambo":"Peter, Sue and Marc (Switzerland, 1976)"}
+{"My Little World":"Waterloo and Robinson (Austria, 1976)"}
+{"Emor Shalom":"Chocolate, Menta, Mastik (Israel, 1976)"}
+{"We'll Live It All Again":"Romina and Al Bano (Italy, 1976)"}
+{"Judy Et Cie.":"Pierre Rapsat (Belgium, 1976)"}
+{"The Party's Over Now":"Sandra Reemer (Netherlands, 1976)"}
+{"When":"Red Hurley (Ireland, 1976)"}
+{"Pump-pump":"Fredi and The Friends (Finland, 1976)"}
+{"Uma Flor De Verde Pinho":"Carlos do Carmo (Portugal, 1976)"}
+{"Panaghia Mou, Panaghia Mou":"Mariza Koch (Greece, 1976)"}
+{"Chansons Pour Ceux Qui S'aiment":"J\u00fcrgen Marcus (Luxembourg, 1976)"}
+{"Sing, Sang, Song":"Les Humphries Singers (Germany, 1976)"}
+{"Sobran Las Palabras":"Braulio (Spain, 1976)"}
+{"Ne Mogu Skriti Svoju Bol":"Ambasadori (Yugoslavia, 1976)"}
+{"Mata Hari":"Anne-Karine Str\u00f6m (Norway, 1976)"}
+{"L'oiseau Et L'enfant":"Marie Myriam (France, 1977)"}
+{"Rock Bottom":"Lynsey de Paul and Mike Moran (United Kingdom, 1977)"}
+{"It's Nice To Be In Love Again":"The Swarbriggs Plus Two (Ireland, 1977)"}
+{"Une Petite Fran\u00e7aise":"Mich\u00e8le Torr (Monaco, 1977)"}
+{"Mathima Solfez":"Pascalis, Marianna, Robert and Bessy (Greece, 1977)"}
+{"Swiss Lady":"Pepe Lienhard Band (Switzerland, 1977)"}
+{"A Million In One, Two, Three":"Dream Express (Belgium, 1977)"}
+{"Telegram":"Silver Convention (Germany, 1977)"}
+{"Ense\u00f1ame A Cantar":"Micky (Spain, 1977)"}
+{"Lapponia":"Monica Aspelund (Finland, 1977)"}
+{"Ah-haa-vah Hee Shir Lish-naa-yim":"Ilanit (Israel, 1977)"}
+{"De Mallemolen":"Heddy Lester (Netherlands, 1977)"}
+{"Liber\u00e0":"Mia Martini (Italy, 1977)"}
+{"Casanova":"Anita Skorgan (Norway, 1977)"}
+{"Portugal No Cora\u00e7\u00e3o":"Os Amigos (Portugal, 1977)"}
+{"Fr\u00e8re Jacques":"Anne Marie B. (Luxembourg, 1977)"}
+{"Boom Boom Boomerang":"Schmetterlinge (Austria, 1977)"}
+{"Beatles":"Forbes (Sweden, 1977)"}
+{"A-Ba-Ni-Bi":"Izhar Cohen and the Alphabeta (Israel, 1978)"}
+{"L'amour \u00e7a Fait Chanter La Vie":"Jean Vall\u00e9e (Belgium, 1978)"}
+{"Il Y Aura Toujours Des Violons":"Jo\u00ebl Pr\u00e9vost (France, 1978)"}
+{"Les Jardins De Monaco":"Caline and Olivier Toussaint (Monaco, 1978)"}
+{"Born To Sing":"Colm T. Wilkinson (Ireland, 1978)"}
+{"Feuer":"Ireen Sheer (Germany, 1978)"}
+{"Parlez-vous Fran\u00e7ais?":"Baccara (Luxembourg, 1978)"}
+{"Charlie Chaplin":"Tania Tsanaklidou (Greece, 1978)"}
+{"Bailemos Un Vals":"Jos\u00e9 V\u00e9lez (Spain, 1978)"}
+{"Vivre":"Carole Vinci (Switzerland, 1978)"}
+{"The Bad Old Days":"Co-Co (United Kingdom, 1978)"}
+{"Questo Amore":"Ricchi e Poveri (Italy, 1978)"}
+{"'t Is Ok":"Harmony (Netherlands, 1978)"}
+{"Det Blir Alltid V\u00e4rre Fram\u00e5t Natten":"Bj\u00f6rn Skifs (Sweden, 1978)"}
+{"Mrs. Caroline Robinson":"Springtime (Austria, 1978)"}
+{"Boom Boom":"Mabel (Denmark, 1978)"}
+{"Dai-li-dou":"Gemini (Portugal, 1978)"}
+{"Anna Rakkaudelle Tilaisuus":"Seija Simola (Finland, 1978)"}
+{"Sevince":"Nazar (Turkey, 1978)"}
+{"Mil Etter Mil":"Jahn Teigen (Norway, 1978)"}
+{"Hallelujah":"Milk and Honey (Israel, 1979)"}
+{"Su Canci\u00f3n":"Betty Missiego (Spain, 1979)"}
+{"Je Suis L'enfant-soleil":"Anne-Marie David (France, 1979)"}
+{"":"Dschinghis Khan (Germany, 1979)"}
+{"Happy Man":"Cathal Dunne (Ireland, 1979)"}
+{"Disco Tango":"Tommy Seebach (Denmark, 1979)"}
+{"Mary Ann":"Black Lace (United Kingdom, 1979)"}
+{"Socrati":"Elpida (Greece, 1979)"}
+{"Sobe, Sobe, Bal\u00e3o Sobe":"Manuela Bravo (Portugal, 1979)"}
+{"Tr\u00f6dler Und Co.":"Peter, Sue and Marc and Pfuri, Gorps and Kniri (Switzerland, 1979)"}
+{"Oliver":"Anita Skorgan (Norway, 1979)"}
+{"Colorado":"Xandra (Netherlands, 1979)"}
+{"J'ai D\u00e9j\u00e0 Vu \u00e7a Dans Tes Yeux":"Jeane Manson (Luxembourg, 1979)"}
+{"Katson Sineen Taivaan":"Katri-Helena (Finland, 1979)"}
+{"Raggio Di Luna":"Matia Bazar (Italy, 1979)"}
+{"Notre Vie, C'est La Musique":"Laurent Vaguener (Monaco, 1979)"}
+{"Satellit":"Ted G\u00e4rdestad (Sweden, 1979)"}
+{"Hey Nana":"Micha Marah (Belgium, 1979)"}
+{"Heute In Jerusalem":"Christina Simon (Austria, 1979)"}
+{"What's Another Year":"Johnny Logan (Ireland, 1980)"}
+{"Theater":"Katja Ebstein (Germany, 1980)"}
+{"Love Enough For Two":"Prima Donna (United Kingdom, 1980)"}
+{"Cin\u00e9ma":"Paola (Switzerland, 1980)"}
+{"Amsterdam":"Maggie MacNeal (Netherlands, 1980)"}
+{"Non So Che Darei":"Alan Sorrenti (Italy, 1980)"}
+{"Um Grande, Grande Amor":"Jos\u00e9 Cid (Portugal, 1980)"}
+{"Du Bist Musik":"Blue Danube (Austria, 1980)"}
+{"Papa Pingouin":"Sophie and Magaly (Luxembourg, 1980)"}
+{"Just Nu!":"Tomas Ledin (Sweden, 1980)"}
+{"H\u00e9, H\u00e9 M'sieurs Dames":"Profil (France, 1980)"}
+{"Qu\u00e9date Esta Noche":"Trigo Limpio (Spain, 1980)"}
+{"Otostop":"Anna Vissi and the Epikouri (Greece, 1980)"}
+{"T\u00e6nker Altid P\u00e5 Dig":"Bamses Venner (Denmark, 1980)"}
+{"Petr'oil":"Ajda Pekkan (Turkey, 1980)"}
+{"S\u00e1miid \u00c6dnan":"Sverre Kjellsberg & Mattis H\u00e6tta (Norway, 1980)"}
+{"Euro-vision":"Telex (Belgium, 1980)"}
+{"Bitakat Hob":"Samira Bensa\u00efd (Morocco, 1980)"}
+{"Huilumies":"Vesa-Matti Loiri (Finland, 1980)"}
+{"Making Your Mind Up":"Bucks Fizz (United Kingdom, 1981)"}
+{"Johnny Blue":"Lena Valaitis (Germany, 1981)"}
+{"Humanahum":"Jean Gabilou (France, 1981)"}
+{"Io Senza Tei":"Peter, Sue and Marc (Switzerland, 1981)"}
+{"Horoscopes":"Sheeba (Ireland, 1981)"}
+{"Monika":"Island (Cyprus, 1981)"}
+{"Halaylah":"Habibi (Israel, 1981)"}
+{"Feggari Kalokerino":"Yiannis Dimitras (Greece, 1981)"}
+{"Het Is Een Wonder":"Linda Williams (Netherlands, 1981)"}
+{"F\u00e5ngad I En Dr\u00f6m":"Bj\u00f6rn Skifs (Sweden, 1981)"}
+{"C'est Peut-\u00eatre Pas L'Am\u00e9rique":"Jean-Claude Pascal (Luxembourg, 1981)"}
+{"Kr\u00f8ller Eller Ej":"Debbie Cameron and Tommy Seebach (Denmark, 1981)"}
+{"Samson":"Emly Starr (Belgium, 1981)"}
+{"Y Solo T\u00fa":"Bacchelli (Spain, 1981)"}
+{"Leila":"Seid-Memic Vajta (Yugoslavia, 1981)"}
+{"Reggae O.k.":"Riki Sorsa (Finland, 1981)"}
+{"Wenn Du Da Bist":"Marty Brem (Austria, 1981)"}
+{"D\u00f6nme Dolap":"Modern Folk Trio and Ayseg\u00fcl (Turkey, 1981)"}
+{"Play-back":"Carlos Pai\u00e3o (Portugal, 1981)"}
+{"Aldri i Livet":"Finn Kalvik (Norway, 1981)"}
+{"Ein Bi\u00dfchen Frieden":"Nicole (Germany, 1982)"}
+{"Hora":"Avi Toledano (Israel, 1982)"}
+{"Amour On T'aime":"Arlette Zola (Switzerland, 1982)"}
+{"Si Tu Aimes Ma Musique":"Stella (Belgium, 1982)"}
+{"Mono I Agapi":"Anna Vissi (Cyprus, 1982)"}
+{"Cour Apres Le Temps":"Svetlana (Luxembourg, 1982)"}
+{"One Step Further":"Bardo (United Kingdom, 1982)"}
+{"Dag Efter Dag":"Chips (Sweden, 1982)"}
+{"Sonntag":"Mess (Austria, 1982)"}
+{"\u00c9l":"Luc\u00eda (Spain, 1982)"}
+{"Here Today, Gone Tomorrow":"The Duskeys (Ireland, 1982)"}
+{"Adieu":"Jahn Teigen & Anita Skorgan (Norway, 1982)"}
+{"Bem-bom":"Doce (Portugal, 1982)"}
+{"Halo Halo":"Aska (Yugoslavia, 1982)"}
+{"Hani":"Ne\u00e7o (Turkey, 1982)"}
+{"Jij En Ik":"Bill van Dijk (Netherlands, 1982)"}
+{"Video-video":"Brixx (Denmark, 1982)"}
+{"Nuku Pommiin":"Kojo (Finland, 1982)"}
+{"Si La Vie Est Cadeau":"Corinne Herm\u00e8s (Luxembourg, 1983)"}
+{"Hi":"Ofra Haza (Israel, 1983)"}
+{"Fr\u00e4mling":"Carola H\u00e4ggkvist (Sweden, 1983)"}
+{"Dzuli":"Danijel (Yugoslavia, 1983)"}
+{"R\u00fccksicht":"Hoffmann und Hoffmann (Germany, 1983)"}
+{"I'm Never Giving Up":"Sweet Dreams (United Kingdom, 1983)"}
+{"Sing Me A Song":"Bernadette (Netherlands, 1983)"}
+{"Vivre":"Guy Bonnet (France, 1983)"}
+{"Do Re Mi":"Jahn Teigen (Norway, 1983)"}
+{"Hurricane":"Westend (Austria, 1983)"}
+{"Per Lucia":"Riccardo Fogli (Italy, 1983)"}
+{"Fantasiaa":"Ami Aspelund (Finland, 1983)"}
+{"Esta Balada Que Te Dou":"Armando Gama (Portugal, 1983)"}
+{"Mou Les":"Christie Stassinopoulou (Greece, 1983)"}
+{"Io Cos\u00ec Non Ci Sto":"Mariella Farr\u00e9 (Switzerland, 1983)"}
+{"I Agapi Akoma Zi":"Stavros and Constantina (Cyprus, 1983)"}
+{"Kloden Drejer":"Gry Johansen (Denmark, 1983)"}
+{"Rendez-vous":"Pas de Deux (Belgium, 1983)"}
+{"Opera":"\u00c7etin Alp and the Short Wave (Turkey, 1983)"}
+{"\u00bfQui\u00e9n Maneja Mi Barca?":"Remedios Amaya (Spain, 1983)"}
+{"Diggi-loo Diggy-ley":"Herrey's (Sweden, 1984)"}
+{"Terminal '3'":"Linda Martin (Ireland, 1984)"}
+{"Lady, Lady":"Bravo (Spain, 1984)"}
+{"Det' Lige Det":"Hot Eyes (Denmark, 1984)"}
+{"Avanti La Vie":"Jacques Zegers (Belgium, 1984)"}
+{"I Treni Di Tozeur":"Alice and Battiato (Italy, 1984)"}
+{"Love Games":"Belle and the Devotions (United Kingdom, 1984)"}
+{"Autant D'amoureux Que D'\u00e9toiles":"Annick Thoumazeau (France, 1984)"}
+{"Hengaillaan":"Kirka (Finland, 1984)"}
+{"100% D'amour":"Sophie Carle (Luxembourg, 1984)"}
+{"Sil\u00eancio E Tanta Gente":"Maria Guinot (Portugal, 1984)"}
+{"Halay":"Bes Yil \u00d6nce, On Yil Sonra (Turkey, 1984)"}
+{"Ik Hou Van Jou":"Maribelle (Netherlands, 1984)"}
+{"Aufrecht Geh'n":"Mary Roos (Germany, 1984)"}
+{"Anna Maria Lena":"Andy Paul (Cyprus, 1984)"}
+{"Welche Farbe Hat Der Sonnenschein":"Rainy Day (Switzerland, 1984)"}
+{"Lenge Leve Livet":"Dollie de Luxe (Norway, 1984)"}
+{"Ciao Amore":"Vlado and Isolda (Yugoslavia, 1984)"}
+{"Einfach Weg":"Anita (Austria, 1984)"}
+{"La Det Swinge":"Bobbysocks (Norway, 1985)"}
+{"F\u00fcr Alle":"Wind (Germany, 1985)"}
+{"Bra Vibrationer":"Kikki Danielsson (Sweden, 1985)"}
+{"Love Is...":"Vikki (United Kingdom, 1985)"}
+{"Ol\u00e9 Ol\u00e9":"Izhar Cohen (Israel, 1985)"}
+{"Wait Until The Weekend Comes":"Maria Christian (Ireland, 1985)"}
+{"Magic, Oh Magic":"Al Bano and Romina Power (Italy, 1985)"}
+{"Kinder Dieser Welt":"Gary Lux (Austria, 1985)"}
+{"El\u00e4k\u00f6\u00f6n El\u00e4m\u00e4":"Sonja Lumme (Finland, 1985)"}
+{"Femme Dans Ses R\u00eaves Aussi":"Roger Bens (France, 1985)"}
+{"Sku' Du Sp\u00f8r Fra No'n":"Hot Eyes (Denmark, 1985)"}
+{"Piano Piano":"Mariella Farr\u00e9 and Pino Gasparini (Switzerland, 1985)"}
+{"Children, Kinder, Enfants":"Margo, Franck, Diane, Ireen, Malcolm & Chris (Luxembourg, 1985)"}
+{"La Fiesta Termin\u00f3":"Paloma San Basilio (Spain, 1985)"}
+{"Di Dai Di Dai Dai (A\u015f\u0131k oldum)":"MF\u00d6 (Turkey, 1985)"}
+{"To Katalava Arga":"Lia Vishy (Cyprus, 1985)"}
+{"Miazoume":"Takis Biniaris (Greece, 1985)"}
+{"Penso Em Ti, Eu Sei":"Adela\u00efde (Portugal, 1985)"}
+{"Laat Me Nu Gaan":"Linda Lepomme (Belgium, 1985)"}
+{"J'aime La Vie":"Sandra Kim (Belgium, 1986)"}
+{"Pas Pour Moi":"Daniela Simons (Switzerland, 1986)"}
+{"L'amour De Ma Vie":"Sherisse Laurence (Luxembourg, 1986)"}
+{"You Can Count On Me":"Luv Bug (Ireland, 1986)"}
+{"E' De' Det H\u00e4r Du Kallar K\u00e4rlek":"Lasse Holm & Monica T\u00f6rnell (Sweden, 1986)"}
+{"Du Er Fuld Af L\u00f8gn":"Lise Haavik and Trax (Denmark, 1986)"}
+{"Runner In The Night":"Ryder (United Kingdom, 1986)"}
+{"\u00dcber Die Br\u00fccke Geh'n":"Ingrid Peters (Germany, 1986)"}
+{"Halley":"Klips ve Onlar (Turkey, 1986)"}
+{"Valentino":"Cadillac (Spain, 1986)"}
+{"\u017deljo Moja":"Doris Dragovi\u0107 (Yugoslavia, 1986)"}
+{"Romeo":"Ketil Stokkan (Norway, 1986)"}
+{"Alles Heeft Ritme":"Frizzle Sizzle (Netherlands, 1986)"}
+{"N\u00e3o Sejas Mau Para Mim":"Dora (Portugal, 1986)"}
+{"P\u00e4iv\u00e4 Kahden Ihmisen":"Kari Kuivalainen (Finland, 1986)"}
+{"Gle\u00f0ibankinn":"Icy (Iceland, 1986)"}
+{"Europ\u00e9ennes":"Cocktail Chic (France, 1986)"}
+{"Die Zeit Ist Einsam":"Timna Brauer (Austria, 1986)"}
+{"Yavoh Yom":"Moti Galadi and Sarai Tzuriel (Israel, 1986)"}
+{"Tora Zo":"Elpida (Cyprus, 1986)"}
+{"Hold Me Now":"Johnny Logan (Ireland, 1987)"}
+{"La\u00df Die Sonne In Dein Herz":"Wind (Germany, 1987)"}
+{"Gente Di Mare":"Umberto Tozzi and Raf (Italy, 1987)"}
+{"Ja Sam Za Ples":"Novi Fosili (Yugoslavia, 1987)"}
+{"Rechtop In De Wind":"Marcha (Netherlands, 1987)"}
+{"En Lille Melodi":"Anne-Cathrine Herdorf (Denmark, 1987)"}
+{"Aspro Mavro":"Alexia (Cyprus, 1987)"}
+{"Shir Habatlanim":"Datner and Kushnir (Israel, 1987)"}
+{"Mitt Liv":"Kate Gulbrandsen (Norway, 1987)"}
+{"Stop!":"Bang (Greece, 1987)"}
+{"Soldiers Of Love":"Liliane Saint-Pierre (Belgium, 1987)"}
+{"Boogaloo":"Lotta Engberg (Sweden, 1987)"}
+{"Only The Light":"Rikki (United Kingdom, 1987)"}
+{"Les Mots D'amour N'ont Pas De Dimanche":"Christine Minier (France, 1987)"}
+{"Sata Salamaa":"Vicky Rosti (Finland, 1987)"}
+{"H\u00e6gt Og Hlj\u00f3tt":"Halla Margar\u00e9t (Iceland, 1987)"}
+{"Moiti\u00e9 Moiti\u00e9":"Carole Rich (Switzerland, 1987)"}
+{"Neste Barco \u00e0 Vela":"Nevada (Portugal, 1987)"}
+{"No Est\u00e1s Solo":"Patricia Kraus (Spain, 1987)"}
+{"Nur Noch Gef\u00fchl":"Gary Lux (Austria, 1987)"}
+{"Amour Amour":"Plastic Bertrand (Luxembourg, 1987)"}
+{"\u015eark\u0131m sevgi \u00fcst\u00fcne":"Seyyal Tanner & Lokomotif (Turkey, 1987)"}
+{"Ne Partez Pas Sans Moi":"C\u00e9line Dion (Switzerland, 1988)"}
+{"Go":"Scott Fitzgerald (United Kingdom, 1988)"}
+{"Ka' Du Se Hva' Jeg Sa'":"Kirsten & S\u00f8ren (Denmark, 1988)"}
+{"Croire":"Lara Fabian (Luxembourg, 1988)"}
+{"For V\u00e5r Jord":"Karoline Kr\u00fcger (Norway, 1988)"}
+{"Mangup":"Srebrna Krila (Yugoslavia, 1988)"}
+{"Ben Adam":"Yardena Arazi (Israel, 1988)"}
+{"Take Him Home":"Jump the Gun (Ireland, 1988)"}
+{"Shangri-la":"Gerard Joling (Netherlands, 1988)"}
+{"Chanteur De Charme":"G\u00e9rard Lenorman (France, 1988)"}
+{"La Chica Que Yo Quiero (made In Spain)":"La D\u00e9cada (Spain, 1988)"}
+{"Stad I Ljus":"Tommy K\u00f6rberg (Sweden, 1988)"}
+{"Ti Scrivo":"Luca Barbarossa (Italy, 1988)"}
+{"Lied F\u00fcr Einen Freund":"Maxi and Chris Garden (Germany, 1988)"}
+{"Sufi":"MF\u00d6 (Turkey, 1988)"}
+{"S\u00f3krates":"Beathoven (Iceland, 1988)"}
+{"Kloun":"Aphroditi Fryda (Greece, 1988)"}
+{"Laissez Briller Le Soleil":"Reynaert (Belgium, 1988)"}
+{"Voltarei":"Dora (Portugal, 1988)"}
+{"Nauravat Silm\u00e4t Muistetaan":"Boulevard (Finland, 1988)"}
+{"Lisa Mona Lisa":"Wilfried (Austria, 1988)"}
+{"Rock Me":"Riva (Yugoslavia, 1989)"}
+{"Why Do I Always Get It Wrong":"Live Report (United Kingdom, 1989)"}
+{"Vi Maler Byen R\u00f8d":"Birthe Kj\u00e6r (Denmark, 1989)"}
+{"En Dag":"Tommy Nilsson (Sweden, 1989)"}
+{"Nur Ein Lied":"Thomas Forstner (Austria, 1989)"}
+{"Nacida Para Amar":"Nina (Spain, 1989)"}
+{"La Dolce Vita":"Anneli Saaristo (Finland, 1989)"}
+{"J'ai Vol\u00e9 La Vie":"Nathalie P\u00e2que (France, 1989)"}
+{"Avrei Voluto":"Anna Oxa and Fausto Leali (Italy, 1989)"}
+{"To Diko Sou Asteri":"Marianna (Greece, 1989)"}
+{"Apopse As Vrethoume":"Fanny Polymeri and Yiannis Savvidakis (Cyprus, 1989)"}
+{"Derech Ha'melech":"Gili & Galit (Israel, 1989)"}
+{"Viver Senza Tei":"Furbaz (Switzerland, 1989)"}
+{"Flieger":"Nino de Angelo (Germany, 1989)"}
+{"Blijf Zoals Je Bent":"Justine Pelmelay (Netherlands, 1989)"}
+{"Conquistador":"Da Vinci (Portugal, 1989)"}
+{"Venners N\u00e6rhet":"Britt Synn\u00f8ve Johansen (Norway, 1989)"}
+{"The Real Me":"Kiev Connolly and the Missing Passengers (Ireland, 1989)"}
+{"Door De Wind":"Ingeborg (Belgium, 1989)"}
+{"Monsieur":"Park Caf\u00e9 (Luxembourg, 1989)"}
+{"Bana Bana":"Pan (Turkey, 1989)"}
+{"\u00dea\u00f0 Sem Enginn S\u00e9r":"Dan\u00edel Aug\u00fast Haraldsson (Iceland, 1989)"}
+{"Insieme: 1992":"Toto Cutugno (Italy, 1990)"}
+{"White And Black Blues":"Joelle Ursull (France, 1990)"}
+{"Somewhere In Europe":"Liam Reilly (Ireland, 1990)"}
+{"Eitt Lag Enn":"Stj\u00f3rnin (Iceland, 1990)"}
+{"Bandido":"Az\u00facar Moreno (Spain, 1990)"}
+{"Give A Little Love Back To The World":"Emma (United Kingdom, 1990)"}
+{"Hajde Da Ludujemo":"Tajci (Yugoslavia, 1990)"}
+{"Hallo Hallo":"Lonnie Devantier (Denmark, 1990)"}
+{"Frei Zu Leben":"Chris Kempers and Daniel Kovac (Germany, 1990)"}
+{"Keine Mauern Mehr":"Simone (Austria, 1990)"}
+{"Musik Klingt In Die Welt Hinaus":"Egon Egemann (Switzerland, 1990)"}
+{"Mac\u00e9domienne":"Philippe Lafontaine (Belgium, 1990)"}
+{"Quand Je Te R\u00eave":"C\u00e9line Carzo (Luxembourg, 1990)"}
+{"Milas Poli":"Haris Anastasiou (Cyprus, 1990)"}
+{"Ik Wil Alles Met Je Delen":"Maywood (Netherlands, 1990)"}
+{"Som En Vind":"Edin-\u00c5dahl (Sweden, 1990)"}
+{"G\u00f6zlerinin Hapsindeyim":"Kayahan (Turkey, 1990)"}
+{"Shara Barechovot":"Rita (Israel, 1990)"}
+{"Horis Skopo":"Christos Callow and Wave (Greece, 1990)"}
+{"H\u00e1 Sempre Algu\u00e9m":"Nucha (Portugal, 1990)"}
+{"Brandenburger Tor":"Ketil Stokkan (Norway, 1990)"}
+{"Fri?":"Beat (Finland, 1990)"}
+{"F\u00e5ngad Av En Stormvind":"Carola (Sweden, 1991)"}
+{"C'est Le Dernier Qui A Parl\u00e9 Qui A Raison":"Amina (France, 1991)"}
+{"Kan":"Duo Datz (Israel, 1991)"}
+{"Bailar Pegados":"Sergio Dalma (Spain, 1991)"}
+{"Canzone Per Te":"Sandra Sim\u00f2 (Switzerland, 1991)"}
+{"Could It Be":"Paul Giordimaina and Georgina (Malta, 1991)"}
+{"Comme E' Ddoce 'o Mare":"Peppino di Capri (Italy, 1991)"}
+{"Lusitana Paix\u00e3o":"Dulce (Portugal, 1991)"}
+{"S.O.S.":"Elena Patroclou (Cyprus, 1991)"}
+{"Could It Be That I'm In Love":"Kim Jackson (Ireland, 1991)"}
+{"A Message To Your Heart":"Samantha Janus (United Kingdom, 1991)"}
+{"Iki Dakika":"Izel \u00c7elik\u00f6z, Rayhan Soykar\u00e7i and Can Ugurlu\u00e9r (Turkey, 1991)"}
+{"I Anixi":"Sofia Vossou (Greece, 1991)"}
+{"Un Baiser Vol\u00e9":"Sarah Bray (Luxembourg, 1991)"}
+{"Nina":"Stef\u00e1n and Eyfi (Iceland, 1991)"}
+{"Geef Het Op":"Clouseau (Belgium, 1991)"}
+{"Mrs. Thompson":"Just 4 Fun (Norway, 1991)"}
+{"Dieser Traum Darf Niemals Sterben":"Atlantis 2000 (Germany, 1991)"}
+{"Lige Der Hvor Hjertet Sl\u00e5r":"Anders Frandsen (Denmark, 1991)"}
+{"Hullu Y\u00f6":"Kaija (Finland, 1991)"}
+{"Brazil":"Baby Doll (Yugoslavia, 1991)"}
+{"Venedig Im Regen":"Thomas Forstner (Austria, 1991)"}
+{"Why Me":"Linda Martin (Ireland, 1992)"}
+{"One Step Out Of Time":"Michael Ball (United Kingdom, 1992)"}
+{"Little Child":"Mary Spiteri (Malta, 1992)"}
+{"Rapsodia":"Mia Martini (Italy, 1992)"}
+{"Olou Tou Kosmou tin Elpida":"Cleopatra (Greece, 1992)"}
+{"Ze Rak Sport":"Dafna (Israel, 1992)"}
+{"Nei E\u00f0a J\u00e1":"Heart 2 Heart (Iceland, 1992)"}
+{"Mont\u00e9 La Rivi\u00e8":"Kali (France, 1992)"}
+{"Wijs Me De Weg":"Humphrey Campbell (Netherlands, 1992)"}
+{"Zusammen Geh'n":"Tony Wegas (Austria, 1992)"}
+{"Teriazoume":"Evridiki (Cyprus, 1992)"}
+{"Alt Det Som Ingen Ser":"Kenny & Lotte (Denmark, 1992)"}
+{"Ljubim Te Pesmama":"Extra Nena (Yugoslavia, 1992)"}
+{"Todo Esto Es La M\u00fasica":"Serafin (Spain, 1992)"}
+{"Mister Music Man":"Daisy Auvray (Switzerland, 1992)"}
+{"Tr\u00e4ume Sind F\u00fcr Alle Da":"Wind (Germany, 1992)"}
+{"Amor D'\u00e1gua Fresca":"Din\u00e1 (Portugal, 1992)"}
+{"Visjoner":"Merethe Tr\u00f8an (Norway, 1992)"}
+{"Yaz Bitti":"Aylin Vatankos (Turkey, 1992)"}
+{"Nous On Veut Des Violons":"Morgane (Belgium, 1992)"}
+{"Sou Fr\u00e4i":"Marion Welter and Kontinent (Luxembourg, 1992)"}
+{"I Morgon \u00e4r En Annan Dag":"Christer Bj\u00f6rkman (Sweden, 1992)"}
+{"Yamma Yamma":"Pave (Finland, 1992)"}
+{"In Your Eyes":"Niamh Kavanagh (Ireland, 1993)"}
+{"Better The Devil You Know":"Sonia (United Kingdom, 1993)"}
+{"Moi, Tout Simplement":"Annie Cotton (Switzerland, 1993)"}
+{"Mama Corsica":"Patrick Fiori (France, 1993)"}
+{"Alle Mine Tankar":"Silje Vige (Norway, 1993)"}
+{"Vrede":"Ruth Jacott (Netherlands, 1993)"}
+{"Elo\u00efse":"Arvingarna (Sweden, 1993)"}
+{"This Time":"William Mangion (Malta, 1993)"}
+{"Ellada, Hora Tou Fotos":"Kaiti Garbi (Greece, 1993)"}
+{"A Cidade At\u00e9 Ser Dia":"Anabela (Portugal, 1993)"}
+{"Hombres":"Eva Santamaria (Spain, 1993)"}
+{"Sole D'europa":"Enrico Ruggeri (Italy, 1993)"}
+{"\u00fe\u00e1 Veistu Svari\u00f0":"Inga (Iceland, 1993)"}
+{"Maria Magdalena":"Tony Wegas (Austria, 1993)"}
+{"Don't Ever Cry":"Put (Croatia, 1993)"}
+{"Sva Bol Svijeta":"Fazla (Bosnia & Herzegovina, 1993)"}
+{"Tule Luo":"Katri-Helena (Finland, 1993)"}
+{"Viel Zu Weit":"M\u00fcnchener Freiheit (Germany, 1993)"}
+{"Mi Stamatas":"Kyriakos Zymboulakis & Demos Van Beke (Cyprus, 1993)"}
+{"Donne-moi Une Chance":"Modern Times (Luxembourg, 1993)"}
+{"Esmer Yarim":"Burak Aydos, \u00d6zt\u00fcrk Baybora & Serter (Turkey, 1993)"}
+{"Under Stjernerne P\u00e5 Himlen":"Tommy Seebach Band (Denmark, 1993)"}
+{"Tih Dezeven Dan":"1X Band (Slovenia, 1993)"}
+{"Shiru":"Lakahat Shiru (Israel, 1993)"}
+{"Iemand Als Jij":"Barbara (Belgium, 1993)"}
+{"Rock 'n' Roll Kids":"Paul Harrington & Charlie McGettigan (Ireland, 1994)"}
+{"To Nie Ja!":"Edyta G\u00f3rniak (Poland, 1994)"}
+{"Wir Geben 'ne Party":"MeKaDo (Germany, 1994)"}
+{"Kinek Mondjam El V\u00e9tkeimet":"Friderika Bayer (Hungary, 1994)"}
+{"More Than Love":"Moira Stafrace and Christopher Scicluna (Malta, 1994)"}
+{"Duett":"Elisabeth Andreasson & Jan Werner Danielsen (Norway, 1994)"}
+{"Je Suis Un Vrai Gar\u00e7on":"Nina Morato (France, 1994)"}
+{"Chamar A M\u00fasica":"Sara Tavares (Portugal, 1994)"}
+{"Vechni Stranik":"Youddiph (Russia, 1994)"}
+{"We Will Be Free (lonely Symphony)":"Frances Ruffelle (United Kingdom, 1994)"}
+{"Ime Anthropos Ke Ego":"Evridiki (Cyprus, 1994)"}
+{"N\u00e6tur":"Sigga (Iceland, 1994)"}
+{"Stj\u00e4rnorna":"Marie Bergman and Roger Pontare (Sweden, 1994)"}
+{"To Trehantiri":"Costas Bigalis and the Sea Lovers (Greece, 1994)"}
+{"Ostani Kraj Mene":"Alma and Dejan (Bosnia & Herzegovina, 1994)"}
+{"Nek'ti Bude Ljubav Sva":"Tony Cetinski (Croatia, 1994)"}
+{"F\u00fcr Den Frieden Der Welt":"Petra Frey (Austria, 1994)"}
+{"Ella No Es Ella":"Alejandro Abad (Spain, 1994)"}
+{"Sto Pregando":"Duilio (Switzerland, 1994)"}
+{"Nekovecn\u00e1 Piesen":"Martin Durinda and Tublatanka (Slovakia, 1994)"}
+{"Dincolo De Nori":"Dan Bittman (Romania, 1994)"}
+{"Bye Bye Baby":"CatCat (Finland, 1994)"}
+{"Waar Is De Zon":"Willeke Alberti (Netherlands, 1994)"}
+{"Nagu Merelaine":"Silvi Vrait (Estonia, 1994)"}
+{"Lop\u0161in\u0117 mylimai":"Ovidijus Vy\u0161niauskas (Lithuania, 1994)"}
+{"Nocturne":"Secret Garden (Norway, 1995)"}
+{"Vuelve Conmigo":"Anabel Conde (Spain, 1995)"}
+{"Se P\u00e5 Mej":"Jan Johansen (Sweden, 1995)"}
+{"Il Me Donne Rendez-vous":"Nathalie Santamaria (France, 1995)"}
+{"Fra Mols Til Skagen":"Aud Wilken (Denmark, 1995)"}
+{"Nostalgija":"Magazin and Lidija (Croatia, 1995)"}
+{"Prisluhni Mi":"Darja Svajger (Slovenia, 1995)"}
+{"Amen":"Liora (Israel, 1995)"}
+{"Sti Fotia":"Alexandros Panayi (Cyprus, 1995)"}
+{"":"Love City Groove (United Kingdom, 1995)"}
+{"Keep Me In Mind":"Mike Spiteri (Malta, 1995)"}
+{"Pia Prosefhi":"Elina Constantopoulou (Greece, 1995)"}
+{"Die Welt Dreht Sich Verkehrt":"Stella Jones (Austria, 1995)"}
+{"Dreamin'":"Eddie Friel (Ireland, 1995)"}
+{"N\u00fana":"B\u00f3 Halld\u00f3rsson (Iceland, 1995)"}
+{"Sev!":"Arzu Ece (Turkey, 1995)"}
+{"Kolybelnaya Dlya Vulkana":"Philipp Kirkorov (Russia, 1995)"}
+{"Sama":"Justyna (Poland, 1995)"}
+{"Dvadeset I Prvi Vijek":"Davor Popovic (Bosnia & Herzegovina, 1995)"}
+{"La Voix Est Libre":"Fr\u00e9d\u00e9ric Etherlinck (Belgium, 1995)"}
+{"Baunilha E Chocolate":"T\u00f3 Cruz (Portugal, 1995)"}
+{"\u00d9j N\u00e8v Egy R\u00e8gi H\u00e0z F\u00e0lan":"Czaba Szigeti (Hungary, 1995)"}
+{"Verliebt In Dich":"Stone and Stone (Germany, 1995)"}
+{"The Voice":"Eimear Quinn (Ireland, 1996)"}
+{"I Evighet":"Elisabeth Andreasson (Norway, 1996)"}
+{"Den Vilda":"One More Time (Sweden, 1996)"}
+{"Sveta Ljubav":"Maja Blagdan (Croatia, 1996)"}
+{"Kaelakee H\u00e4\u00e4l":"Ivo Linna and Maarja-Liis Ilus (Estonia, 1996)"}
+{"O Meu Cora\u00e7\u00e3o N\u00e3o Tem Cor":"L\u00facia Moniz (Portugal, 1996)"}
+{"De Eerste Keer":"Maxine & Franklin Brown (Netherlands, 1996)"}
+{"Ooh...Aah...Just A Little Bit":"Gina G (United Kingdom, 1996)"}
+{"Mono Gia Mas":"Constantinos (Cyprus, 1996)"}
+{"In A Woman's Heart":"Miriam Christine (Malta, 1996)"}
+{"Weil's Dr Guat Got":"George Nu\u00dfbaumer (Austria, 1996)"}
+{"Besin\u00e7i Mevsim":"\u015eebnem Paker (Turkey, 1996)"}
+{"Sj\u00fab\u00edd\u00fa":"Anna Mj\u00f6ll (Iceland, 1996)"}
+{"Emis Forame To Himona Anixiatika":"Marianna Efstratiou (Greece, 1996)"}
+{"Chce Znac Sw\u00f3j Grzech":"Kasia Kowalska (Poland, 1996)"}
+{"Mon Coeur L'aime":"Cathy Leander (Switzerland, 1996)"}
+{"Liefde Is Een Kaartspel":"Lisa del Bo (Belgium, 1996)"}
+{"K\u00fdm N\u00e1s M\u00e1\u0161":"Marcel Palonder (Slovakia, 1996)"}
+{"Diwanit Bugale":"Dan Ar Braz et l'H\u00e9ritage des Celtes (France, 1996)"}
+{"\u00a1Ay, Qu\u00e9 Deseo!":"Antonio Carbonell (Spain, 1996)"}
+{"Dan najlep\u0161ih sanj":"Regina (Slovenia, 1996)"}
+{"Za Na\u0161u Ljubav":"Amila Glamocak (Bosnia & Herzegovina, 1996)"}
+{"Niin Kaunis On Taivas":"Jasmine (Finland, 1996)"}
+{"Love Shine A Light":"Katrina and The Waves (United Kingdom, 1997)"}
+{"Mysterious Woman":"Marc Roberts (Ireland, 1997)"}
+{"Dinle":"Sebnem Paker and Group Etnic (Turkey, 1997)"}
+{"Fiumi Di Parole":"Jalisse (Italy, 1997)"}
+{"Mana Mou":"Chara and Andreas Konstantinou (Cyprus, 1997)"}
+{"Sin Rencor":"Marcos Llunas (Spain, 1997)"}
+{"Sentiments Songes":"Fanny (France, 1997)"}
+{"Keelatud Maa":"Maarja-Liis Ilus (Estonia, 1997)"}
+{"Let Me Fly":"Debbie Scerri (Malta, 1997)"}
+{"Zbudi Se":"Tanja Ribi\u010d (Slovenia, 1997)"}
+{"Ale Jestem":"Anna Maria Jopek (Poland, 1997)"}
+{"Horepse":"Marianna Zorba (Greece, 1997)"}
+{"Miert Kell, Hogy Elmenj?":"VIP (Hungary, 1997)"}
+{"Bara Hon \u00e4lskar Mig":"Blond (Sweden, 1997)"}
+{"Primadonna":"Alla Pugachova (Russia, 1997)"}
+{"Stemmen I Mit Liv":"K\u00f8lig Kaj (Denmark, 1997)"}
+{"Probudi Me":"ENI (Croatia, 1997)"}
+{"Zeit":"Bianca Shomburg (Germany, 1997)"}
+{"Goodbye":"Alma Cardzic (Bosnia & Herzegovina, 1997)"}
+{"Minn Hinsti Dans":"Paul Oscar (Iceland, 1997)"}
+{"One Step":"Bettina Soriat (Austria, 1997)"}
+{"Dentro Di Me":"Barbara Berta (Switzerland, 1997)"}
+{"Niemand Heeft Nog Tijd":"Mrs. Einstein (Netherlands, 1997)"}
+{"San Francisco":"Tor Endresen (Norway, 1997)"}
+{"Antes Do Adeus":"C\u00e9lia Lawson (Portugal, 1997)"}
+{"Diva":"Dana International (Israel, 1998)"}
+{"Where Are You?":"Imaani (United Kingdom, 1998)"}
+{"The One That I Love":"Chiara (Malta, 1998)"}
+{"Hemel En Aarde":"Edsilia Rombley (Netherlands, 1998)"}
+{"Neka Mi Ne Svane":"Danijela (Croatia, 1998)"}
+{"Dis Oui":"M\u00e9lanie Cohl (Belgium, 1998)"}
+{"Guildo Hat Euch Lieb":"Guildo Horn (Germany, 1998)"}
+{"Alltid Sommer":"Lars A. Fredriksen (Norway, 1998)"}
+{"Is Always Over Now?":"Dawn (Ireland, 1998)"}
+{"K\u00e4rleken \u00e4r":"Jill Johnson (Sweden, 1998)"}
+{"Genesis":"Michael Hajiyanni (Cyprus, 1998)"}
+{"Se Eu Te Pudesse Abra\u00e7ar":"Alma Lusa (Portugal, 1998)"}
+{"Mere Lapsed":"Koit Toome (Estonia, 1998)"}
+{"Unutamazsin":"T\u00fczmen (Turkey, 1998)"}
+{"Aava":"Edea (Finland, 1998)"}
+{"\u00bfQu\u00e9 Voy A Hacer Sin Ti?":"Mikel Herzog (Spain, 1998)"}
+{"To Takie Proste":"Sixteen (Poland, 1998)"}
+{"Naj Bogovi Sli\u009aijo":"Vili Resnik (Slovenia, 1998)"}
+{"Ne Zori, Zoro":"Vlado Janevski (North Macedonia, 1998)"}
+{"Mia Krifi Evaisthissia":"Dionysia and Thalassa group (Greece, 1998)"}
+{"Modlitba":"Katar\u00edna Hasprov\u00e1 (Slovakia, 1998)"}
+{"Eu Cred":"Malina Olinescu (Romania, 1998)"}
+{"A Holnap M\u00e1r N\u00e9m Lesz Szomor\u00fa":"Charlie (Hungary, 1998)"}
+{"O\u00f9 Aller":"Marie-Line (France, 1998)"}
+{"Lass Ihn":"Gunvor (Switzerland, 1998)"}
+{"Take Me To Your Heaven":"Charlotte Nilsson (Sweden, 1999)"}
+{"All Out Of Luck":"Selma Bj\u00f6rnsd\u00f3ttir (Iceland, 1999)"}
+{"Reise Nach Jerusalem - Kud\u00fcs'e Seyahat":"S\u00fcrpriz (Germany, 1999)"}
+{"Marija Magdalena":"Doris Dragovi\u0107 (Croatia, 1999)"}
+{"Yom Huledeth":"Eden (Israel, 1999)"}
+{"Diamond Of Night":"Evelin Samuel and Camille (Estonia, 1999)"}
+{"Putnici":"Dino and Beatrice (Bosnia & Herzegovina, 1999)"}
+{"This Time (i Mean It)":"Trine Jepsen & Michael Teschl (Denmark, 1999)"}
+{"One Good Reason":"Marlayne (Netherlands, 1999)"}
+{"Reflection":"Bobbie Singer (Austria, 1999)"}
+{"For A Thousand Years":"Darja Svajger (Slovenia, 1999)"}
+{"Like The Wind":"Venessa Chinitor (Belgium, 1999)"}
+{"Say It Again":"Precious (United Kingdom, 1999)"}
+{"Living My Life Without You":"Stig Andr\u00e9 Van Eijk (Norway, 1999)"}
+{"Believe 'n Peace":"Times 3 (Malta, 1999)"}
+{"D\u00f6n Artik":"Tuba \u00d6nal & Grup Mystik (Turkey, 1999)"}
+{"When You Need Me":"The Mullan's (Ireland, 1999)"}
+{"Przytul Mnie Mocno":"Mietek Szczesniak (Poland, 1999)"}
+{"Je Veux Donner Ma Voix":"Nayah (France, 1999)"}
+{"Strazdas":"Aiste Smilgeviciute (Lithuania, 1999)"}
+{"Como Tudo Come\u00e7ou":"Rui Bandeira (Portugal, 1999)"}
+{"Tha'nai Erotas":"Marlain Angelidou (Cyprus, 1999)"}
+{"No Quiero Escuchar":"Lydia (Spain, 1999)"}
+{"Fly On The Wings Of Love":"Olsen brothers (Denmark, 2000)"}
+{"Solo":"Alsou (Russia, 2000)"}
+{"My Star":"BrainStorm (Latvia, 2000)"}
+{"Once In A Lifetime":"Ines (Estonia, 2000)"}
+{"Wadde Hadde Dudde Da":"Stefan Raab (Germany, 2000)"}
+{"Millennium Of Love":"Eamonn Toal (Ireland, 2000)"}
+{"When Spirits Are Calling My Name":"Roger Pontare (Sweden, 2000)"}
+{"Desire":"Claudette Pace (Malta, 2000)"}
+{"Kada Zaspu Andeli":"Goran Karan (Croatia, 2000)"}
+{"Yorgunum Anla":"Pinar Ayhan & S.O.S. band (Turkey, 2000)"}
+{"My Heart Goes Boom":"Charmed (Norway, 2000)"}
+{"Tell Me!":"August & Telma (Iceland, 2000)"}
+{"No Goodbyes":"Linda Wagenmakers (Netherlands, 2000)"}
+{"All To You":"The rounder girls (Austria, 2000)"}
+{"100% Te Ljubam":"XXL (North Macedonia, 2000)"}
+{"Don't Play That Song Again":"Nicki French (United Kingdom, 2000)"}
+{"The Moon":"Taxi (Romania, 2000)"}
+{"Colgado De Un Sue\u00f1o":"Seraf\u00edn Zubiri (Spain, 2000)"}
+{"A Little Bit":"Nina \u00c5str\u00f6m (Finland, 2000)"}
+{"La Vita Cos'\u00e8?":"Jane Bogaert (Switzerland, 2000)"}
+{"Nomiza":"Voice (Cyprus, 2000)"}
+{"Sa'me'akh":"Ping Pong (Israel, 2000)"}
+{"On Aura Le Ciel":"Sofia Mestari (France, 2000)"}
+{"Envie De Vivre":"Nathalie Sorce (Belgium, 2000)"}
+{"Everybody":"Tanel Padar, Dave Benton & 2XL (Estonia, 2001)"}
+{"Never Ever Let You Go":"Rollo & King (Denmark, 2001)"}
+{"Die For You":"Antique (Greece, 2001)"}
+{"Je N'ai Que Mon \u00e2me":"Natasha Saint-Pier (France, 2001)"}
+{"Listen To Your Heartbeat":"Friends (Sweden, 2001)"}
+{"Dile Que La Quiero":"David Civera (Spain, 2001)"}
+{"Energy":"Nu\u009aa Derenda (Slovenia, 2001)"}
+{"Wer Liebe Lebt":"Michelle (Germany, 2001)"}
+{"Another Summer Night":"Fabrizio Faniello (Malta, 2001)"}
+{"Strings Of My Heart":"Vanna (Croatia, 2001)"}
+{"Sevgiliye Son":"Sedat Y\u00fcce (Turkey, 2001)"}
+{"Lady Alpine Blue":"Mumiy troll (Russia, 2001)"}
+{"You Got Style":"Skamp (Lithuania, 2001)"}
+{"Hano":"Nino (Bosnia & Herzegovina, 2001)"}
+{"No Dream Impossible":"Lindsay D. (United Kingdom, 2001)"}
+{"Ein Davar":"Tal Sondak (Israel, 2001)"}
+{"S\u00f3 Sei Ser Feliz Assim":"MTM (Portugal, 2001)"}
+{"Out On My Own":"Michelle (Netherlands, 2001)"}
+{"Too Much":"Arnis Mednis (Latvia, 2001)"}
+{"2 Long":"Piasek (Poland, 2001)"}
+{"Without Your Love":"Gary O'Shaughnessy (Ireland, 2001)"}
+{"Angel":"TwoTricky (Iceland, 2001)"}
+{"On My Own":"Haldor L\u00e6greid (Norway, 2001)"}
+{"I Wanna":"Marie N (Latvia, 2002)"}
+{"7th Wonder":"Ira Losco (Malta, 2002)"}
+{"Come Back":"Jessica Garlick (United Kingdom, 2002)"}
+{"Runaway":"Sahl\u00e9ne (Estonia, 2002)"}
+{"Il Faut Du Temps":"Sandrine Fran\u00e7ois (France, 2002)"}
+{"Gimme":"One (Cyprus, 2002)"}
+{"Europe's Living A Celebration":"Rosa (Spain, 2002)"}
+{"Never Let It Go":"Afro-dite (Sweden, 2002)"}
+{"Tell Me Why":"Monica Anghel & Marcel Pavel (Romania, 2002)"}
+{"Northern Girl":"Prime minister (Russia, 2002)"}
+{"Everything I Want":"Vesna Pisarovic (Croatia, 2002)"}
+{"Light A Candle":"Sarit Hadad (Israel, 2002)"}
+{"Na Jastuku Za Dvoje":"Maja (Bosnia & Herzegovina, 2002)"}
+{"Sister":"Sergio & the Ladies (Belgium, 2002)"}
+{"Samo Ljubezen":"Sestre (Slovenia, 2002)"}
+{"Leylaklar Soldu Kalbinde":"Buket Bengisu & Saphire (Turkey, 2002)"}
+{"S.A.G.A.P.O.":"Michalis Rakintzis (Greece, 2002)"}
+{"Say A Word":"Manuel Ortega (Austria, 2002)"}
+{"Od Nas Zavisi":"Karolina (North Macedonia, 2002)"}
+{"Addicted To You":"Laura (Finland, 2002)"}
+{"I Can't Live Without Music":"Corinna May (Germany, 2002)"}
+{"Dans Le Jardin De Mon \u00c2me":"Francine Jordi (Switzerland, 2002)"}
+{"Happy You":"Aivaras (Lithuania, 2002)"}
+{"Tell Me Who You Are":"Malene (Denmark, 2002)"}
+{"Everyway That I Can":"Sertab Erener (Turkey, 2003)"}
+{"Sanomi":"Urban Trad (Belgium, 2003)"}
+{"Ne Ver\u0092, Ne Boisia":"t.A.T.u. (Russia, 2003)"}
+{"I'm Not Afraid To Move On":"Jostein Hasselg\u00e5rd (Norway, 2003)"}
+{"Give Me Your Love":"Fame (Sweden, 2003)"}
+{"Weil Der Mensch Z\u00e4hlt":"Alf Poier (Austria, 2003)"}
+{"Keine Grenzen - Zadnych Granic":"Ich Troje (Poland, 2003)"}
+{"Open Your Heart":"Birgitta (Iceland, 2003)"}
+{"Dime":"Beth (Spain, 2003)"}
+{"Don\u0092t Break My Heart":"Nicola (Romania, 2003)"}
+{"We\u0092've Got The World":"Mickey Harte (Ireland, 2003)"}
+{"Let\u0092s Get Happy":"Lou (Germany, 2003)"}
+{"One More Night":"Esther Hart (Netherlands, 2003)"}
+{"Hasta La Vista":"Olexandr (Ukraine, 2003)"}
+{"Vi\u009ae Nisam Tvoja":"Claudia Beni (Croatia, 2003)"}
+{"Ne Brini":"Mija Martina (Bosnia & Herzegovina, 2003)"}
+{"Never Let You Go":"Mando (Greece, 2003)"}
+{"Monts Et Merveilles":"Louisa Baileche (France, 2003)"}
+{"Words For Love":"Lior Narkis (Israel, 2003)"}
+{"Feeling Alive":"Stelios Constantas (Cyprus, 2003)"}
+{"Eighties Coming Back":"Ruffus (Estonia, 2003)"}
+{"Deixa-me Sonhar":"Rita Guerra (Portugal, 2003)"}
+{"Nanana":"Karmen (Slovenia, 2003)"}
+{"Hello From Mars":"F.L.Y. (Latvia, 2003)"}
+{"To Dream Again":"Lynn Chirchop (Malta, 2003)"}
+{"Cry Baby":"Jemini (United Kingdom, 2003)"}
+{"Wild Dances":"Ruslana (Ukraine, 2004)"}
+{"Lane Moje":"\u008e\u017deljko Joksimovi\u0107 (Serbia & Montenegro, 2004)"}
+{"Shake It":"Sakis Rouvas (Greece, 2004)"}
+{"For Real":"Athena (Turkey, 2004)"}
+{"Stronger Every Minute":"Lisa Andreas (Cyprus, 2004)"}
+{"It Hurts":"Lena Philipsson (Sweden, 2004)"}
+{"The Image Of You":"Anjeza Shahini (Albania, 2004)"}
+{"Can't Wait Until Tonight":"Max (Germany, 2004)"}
+{"In The Disco":"Deen (Bosnia & Herzegovina, 2004)"}
+{"Para Llenarme De Ti":"Ram\u00f3n (Spain, 2004)"}
+{"Believe Me":"Julia Savicheva (Russia, 2004)"}
+{"On Again... Off Again":"Julie & Ludwig (Malta, 2004)"}
+{"You Are The Only One":"Ivan Mikulic (Croatia, 2004)"}
+{"Life":"Tose Proeski (North Macedonia, 2004)"}
+{"A Chaque Pas":"Jonatan Cerrada (France, 2004)"}
+{"Hold On To Our Love":"James Fox (United Kingdom, 2004)"}
+{"Love Song":"Blue Cafe (Poland, 2004)"}
+{"I Admit":"Sanda Ladosi (Romania, 2004)"}
+{"Heaven":"J\u00f3nsi (Iceland, 2004)"}
+{"Without You":"Re-union (Netherlands, 2004)"}
+{"Du Bist":"Tie Break (Austria, 2004)"}
+{"1 Life":"Xandee (Belgium, 2004)"}
+{"If My World Stopped Turning":"Chris Doran (Ireland, 2004)"}
+{"High":"Knut Anders S\u00f8rum (Norway, 2004)"}
+{"Tii":"Neiok\u00f5s\u00f5 (Estonia, 2004)"}
+{"Le'ha'amin":"David D'or (Israel, 2004)"}
+{"Shame On You":"Tomas Thordarson (Denmark, 2004)"}
+{"Takes 2 To Tango":"Jari Sillanp\u00e4\u00e4 (Finland, 2004)"}
+{"Foi Magia":"Sofia (Portugal, 2004)"}
+{"What's Happened To Your Love":"Linas ir Simona (Lithuania, 2004)"}
+{"Dziesma Par Laimi":"Fomins & Kleins (Latvia, 2004)"}
+{"Jugarem A Estimar-nos":"Marta Roure (Andorra, 2004)"}
+{"My Galileo":"Aleksandra & Konstantin (Belarus, 2004)"}
+{"Notre Plan\u00e8te":"Maryon (Monaco, 2004)"}
+{"Stay Forever":"Platin (Slovenia, 2004)"}
+{"Celebrate":"Piero Esteriore & the MusicStars (Switzerland, 2004)"}
+{"My Number One":"Helena Paparizou (Greece, 2005)"}
+{"Angel":"Chiara (Malta, 2005)"}
+{"Let Me Try":"Luminita Anghel & Sistem (Romania, 2005)"}
+{"Hasheket Shenish'ar":"Shiri Maymon (Israel, 2005)"}
+{"The War Is Not Over":"Walter & Kazha (Latvia, 2005)"}
+{"Boonika Bate Doba":"Zdob \u015fi Zdub (Moldova, 2005)"}
+{"Zauvijek Moja":"No Name (Serbia & Montenegro, 2005)"}
+{"Cool Vibes":"Vanilla Ninja (Switzerland, 2005)"}
+{"In My Dreams":"Wig Wam (Norway, 2005)"}
+{"Talking To You":"Jakob Sveistrup (Denmark, 2005)"}
+{"Vukovi Umiru Sami":"Boris Novkovic feat. Lado members (Croatia, 2005)"}
+{"Forogj Vil\u00e1g":"NOX (Hungary, 2005)"}
+{"Rimi Rimi Ley":"G\u00fclseren (Turkey, 2005)"}
+{"Call Me":"Feminnem (Bosnia & Herzegovina, 2005)"}
+{"Nobody Hurt No One":"Natalia Podolskaya (Russia, 2005)"}
+{"Tomorrow I Go":"Ledina Celo (Albania, 2005)"}
+{"Make My Day":"Martin Vucic (North Macedonia, 2005)"}
+{"Ela Ela":"Constantinos Christoforou (Cyprus, 2005)"}
+{"Las Vegas":"Martin Stenmarck (Sweden, 2005)"}
+{"Razom Nas Bahato":"Greenjolly (Ukraine, 2005)"}
+{"Brujer\u00eda":"Son de sol (Spain, 2005)"}
+{"Touch My Fire":"Javine (United Kingdom, 2005)"}
+{"Chacun Pense \u00e0 Soi":"Ortal (France, 2005)"}
+{"Run & Hide":"Gracia (Germany, 2005)"}
+{"Czarna Dziewczyna":"Ivan & Delfin (Poland, 2005)"}
+{"Stop":"Omar Naber (Slovenia, 2005)"}
+{"Love Me Tonight":"Angelica Agurbash (Belarus, 2005)"}
+{"My Impossible Dream":"Glennis Grace (Netherlands, 2005)"}
+{"Love?":"Donna and Joseph McCaul (Ireland, 2005)"}
+{"If I Had Your Love":"Selma (Iceland, 2005)"}
+{"Amar":"2B (Portugal, 2005)"}
+{"Why":"Geir R\u00f6nning (Finland, 2005)"}
+{"Lorraine":"Kaffe (Bulgaria, 2005)"}
+{"Let's Get Loud":"Suntribe (Estonia, 2005)"}
+{"Y As\u00ed":"Global.Kryner (Austria, 2005)"}
+{"Le Grand Soir":"Nuno Resende (Belgium, 2005)"}
+{"La Mirada Interior":"Marian van de Wal (Andorra, 2005)"}
+{"Tout De Moi":"Lise Darly (Monaco, 2005)"}
+{"Little By Little":"Laura and the Lovers (Lithuania, 2005)"}
+{"Hard Rock Hallelujah":"Lordi (Finland, 2006)"}
+{"Never Let You Go":"Dima Bilan (Russia, 2006)"}
+{"Lejla":"Hari Mata Hari (Bosnia & Herzegovina, 2006)"}
+{"Tornero":"Mihai Traistariu (Romania, 2006)"}
+{"Invincible":"Carola (Sweden, 2006)"}
+{"We Are The Winners":"LT United (Lithuania, 2006)"}
+{"Show Me Your Love":"Tina Karol (Ukraine, 2006)"}
+{"Without Your Love":"Andr\u00e9 (Armenia, 2006)"}
+{"Everything":"Anna Vissi (Greece, 2006)"}
+{"Every Song Is A Cry For Love":"Brian Kennedy (Ireland, 2006)"}
+{"Superstar":"Sibel T\u00fcz\u00fcn (Turkey, 2006)"}
+{"Ninanajna":"Elena Risteska (North Macedonia, 2006)"}
+{"Moja \u009atikla":"Severina (Croatia, 2006)"}
+{"Alvedansen":"Christine Guldbrandsen (Norway, 2006)"}
+{"No, No, Never":"Texas Lightning (Germany, 2006)"}
+{"If We All Give A Little":"Six4One (Switzerland, 2006)"}
+{"I Hear Your Heart":"Cosmos (Latvia, 2006)"}
+{"Twist Of Love":"Sidsel Ben Semmane (Denmark, 2006)"}
+{"Teenage Life":"Daz Sampson (United Kingdom, 2006)"}
+{"Loca":"Arsenium & Natalia Gordienko (Moldova, 2006)"}
+{"Bloody Mary":"Las Ketchup (Spain, 2006)"}
+{"Il \u00e9tait Temps":"Virginie Pouchin (France, 2006)"}
+{"Ze Hazman":"Eddie Butler (Israel, 2006)"}
+{"I Do":"Fabrizio Faniello (Malta, 2006)"}
+{"Follow My Heart":"Ich Troje (Poland, 2006)"}
+{"Je t'adore":"Kate Ryan (Belgium, 2006)"}
+{"Congratulations":"Silvia Night (Iceland, 2006)"}
+{"Zjarr E Ftoht\u00eb":"Luiz Ejlli (Albania, 2006)"}
+{"Why Angels Cry":"Annet Artani (Cyprus, 2006)"}
+{"Mr. Nobody":"An\u009eej De\u009ean (Slovenia, 2006)"}
+{"Let Me Cry":"Mariana Popova (Bulgaria, 2006)"}
+{"Through My Window":"Sandra (Estonia, 2006)"}
+{"Coisas De Nada":"Nonstop (Portugal, 2006)"}
+{"Amambanda":"Treble (Netherlands, 2006)"}
+{"La Coco-dance":"S\u00e9verine Ferrer (Monaco, 2006)"}
+{"Mum":"Polina Smolova (Belarus, 2006)"}
+{"Sense Tu":"Jennifer (Andorra, 2006)"}
+{"Molitva":"Marija \u0160erifovi\u0107 (Serbia, 2007)"}
+{"Dancing Lasha Tumbai":"Verka Serduchka (Ukraine, 2007)"}
+{"Song # 1":"Serebro (Russia, 2007)"}
+{"Shake It Up Shekerim":"Kenan Dogulu (Turkey, 2007)"}
+{"Water":"Elitsa Todorova & Stoyan Yankulov (Bulgaria, 2007)"}
+{"Work Your Magic":"Dmitry Koldun (Belarus, 2007)"}
+{"Yassou Maria":"Sarbel (Greece, 2007)"}
+{"Anytime You Need":"Hayko (Armenia, 2007)"}
+{"Unsubstantial Blues":"Magdi R\u00fazsa (Hungary, 2007)"}
+{"Fight":"Natalia Barbu (Moldova, 2007)"}
+{"Rijeka Bez Imena":"Marija Sestic (Bosnia & Herzegovina, 2007)"}
+{"Visionary Dream":"Sopho (Georgia, 2007)"}
+{"Liubi, Liubi, I Love You":"Todomondo (Romania, 2007)"}
+{"Mojot Svet":"Karolina (North Macedonia, 2007)"}
+{"Cvet Z Juga":"Alenka Gotar (Slovenia, 2007)"}
+{"Questa Notte":"Bonaparti.lv (Latvia, 2007)"}
+{"Leave Me Alone":"Hanna Pakarinen (Finland, 2007)"}
+{"The Worrying Kind":"The Ark (Sweden, 2007)"}
+{"Frauen Regieren Die Welt":"Roger Cicero (Germany, 2007)"}
+{"I Love You Mi Vida":"NASH (Spain, 2007)"}
+{"Love Or Leave":"4Fun (Lithuania, 2007)"}
+{"L'amour \u00e0 La Fran\u00e7aise":"Les Fatals Picards (France, 2007)"}
+{"Flying The Flag (for You)":"Scooch (United Kingdom, 2007)"}
+{"They Can't Stop The Spring":"Dervish (Ireland, 2007)"}
+{"Dan\u00e7a Comigo (vem Ser Feliz)":"Sabrina (Portugal, 2007)"}
+{"Salvem El M\u00f3n":"Anonymous (Andorra, 2007)"}
+{"Valentine Lost":"Eir\u00edkur Hauksson (Iceland, 2007)"}
+{"Time To Party":"The Jet Set (Poland, 2007)"}
+{"Comme Ci, Comme \u00e7a":"Evridiki (Cyprus, 2007)"}
+{"Vjerujem U Ljubav":"Dragonfly feat. Dado Topic (Croatia, 2007)"}
+{"Hear My Plea":"Aida & Frederik Ndoci (Albania, 2007)"}
+{"Ven A Bailar Conmigo":"Guri Schanke (Norway, 2007)"}
+{"Drama Queen":"DQ (Denmark, 2007)"}
+{"Vampires Are Alive":"DJ BoBo (Switzerland, 2007)"}
+{"On Top Of The World":"Edsilia Rombley (Netherlands, 2007)"}
+{"Ajde Kroci":"Stevan Faddy (Montenegro, 2007)"}
+{"Partners In Crime":"Gerli Padar (Estonia, 2007)"}
+{"Push The Button":"Teapacks (Israel, 2007)"}
+{"Vertigo":"Olivia Lewis (Malta, 2007)"}
+{"Love Power":"The KMG's (Belgium, 2007)"}
+{"Get A Life - Get Alive":"Eric Papilaya (Austria, 2007)"}
+{"Mal\u00e1 D\u00e1ma":"Kab\u00e1t (Czech Republic, 2007)"}
+{"Believe":"Dima Bilan (Russia, 2008)"}
+{"Shady Lady":"Ani Lorak (Ukraine, 2008)"}
+{"Secret Combination":"Kalomira (Greece, 2008)"}
+{"Qele, Qele":"Sirusho (Armenia, 2008)"}
+{"Hold On Be Strong":"Maria (Norway, 2008)"}
+{"Oro":"Jelena Toma\u0161evi\u0107 feat. Bora Dugic (Serbia, 2008)"}
+{"Deli":"Mor ve \u00d6tesi (Turkey, 2008)"}
+{"Day After Day":"Elnur & Samir (Azerbaijan, 2008)"}
+{"The Fire In Your Eyes":"Boaz (Israel, 2008)"}
+{"Poku\u0161aj":"Laka (Bosnia & Herzegovina, 2008)"}
+{"Peace Will Come":"Diana Gurtskaya (Georgia, 2008)"}
+{"Wolves Of The Sea":"Pirates Of The Sea (Latvia, 2008)"}
+{"Senhora Do Mar (Negras \u00c1guas)":"V\u00e2nia Fernandes (Portugal, 2008)"}
+{"This Is My Life":"Euroband (Iceland, 2008)"}
+{"All Night Long":"Simon Mathew (Denmark, 2008)"}
+{"Baila El Chiki Chiki":"Rodolfo Chikilicuatre (Spain, 2008)"}
+{"Zemr\u00ebn E Lam\u00eb Peng":"Olta Boka (Albania, 2008)"}
+{"Hero":"Charlotte Perrelli (Sweden, 2008)"}
+{"Divine":"S\u00e9bastien Tellier (France, 2008)"}
+{"Pe-o Margine De Lume":"Nico & Vlad (Romania, 2008)"}
+{"Romanca":"Kraljevi Ulice & 75 Cents (Croatia, 2008)"}
+{"Miss\u00e4 Miehet Ratsastaa":"Ter\u00e4sbetoni (Finland, 2008)"}
+{"Disappear":"No Angels (Germany, 2008)"}
+{"For Life":"Isis Gee (Poland, 2008)"}
+{"Even If":"Andy Abraham (United Kingdom, 2008)"}
+{"Let Me Love You":"Tamara, Vr\u010dak & Adrijan (North Macedonia, 2008)"}
+{"DJ, Take Me Away":"Deep Zone & Balthazar (Bulgaria, 2008)"}
+{"Era Stupendo":"Paolo Meneguzzi (Switzerland, 2008)"}
+{"Vodka":"Morena (Malta, 2008)"}
+{"Vrag Naj Vzame":"Rebeka Dremelj (Slovenia, 2008)"}
+{"A Century Of Love":"Geta Burlacu (Moldova, 2008)"}
+{"Femme Fatale":"Evdokia Kadi (Cyprus, 2008)"}
+{"Nomads In The Night":"Jeronimas Milius (Lithuania, 2008)"}
+{"Your Heart Belongs To Me":"Hind (Netherlands, 2008)"}
+{"Hasta La Vista":"Ruslan Alehno (Belarus, 2008)"}
+{"Zauvijek Volim Te":"Stefan Filipovi\u0107 (Montenegro, 2008)"}
+{"Irelande Douze Pointe":"Dustin the Turkey (Ireland, 2008)"}
+{"Casanova":"Gisela (Andorra, 2008)"}
+{"O Julissi":"Ishtar (Belgium, 2008)"}
+{"Have Some Fun":"Tereza Kerndlov\u00e1 (Czech Republic, 2008)"}
+{"Leto Svet":"Kreisiraadio (Estonia, 2008)"}
+{"Candlelight":"Cs\u00e9zy (Hungary, 2008)"}
+{"Complice":"Miodio (San Marino, 2008)"}
+{"Fairytale":"Alexander Rybak (Norway, 2009)"}
+{"Is It True?":"Yohanna (Iceland, 2009)"}
+{"Always":"AySel & Arash (Azerbaijan, 2009)"}
+{"D\u00fcm Tek Tek":"Hadise (Turkey, 2009)"}
+{"It's My Time":"Jade Ewen (United Kingdom, 2009)"}
+{"R\u00e4ndajad":"Urban Symphony (Estonia, 2009)"}
+{"This Is Our Night":"Sakis Rouvas (Greece, 2009)"}
+{"Et S'il Fallait Le Faire":"Patricia Kaas (France, 2009)"}
+{"Bistra Voda":"Regina (Bosnia & Herzegovina, 2009)"}
+{"Jan Jan":"Inga & Anush (Armenia, 2009)"}
+{"Mamo":"Anastasia Prikhodko (Russia, 2009)"}
+{"Be my Valentine! (Anti-crisis Girl)":"Svetlana Loboda (Ukraine, 2009)"}
+{"Believe Again":"Brinck (Denmark, 2009)"}
+{"Hora Din Moldova":"Nelly Ciobanu (Moldova, 2009)"}
+{"Todas As Ruas Do Amor":"Flor-de-lis (Portugal, 2009)"}
+{"There Must Be Another Way":"Noa & Mira Awad (Israel, 2009)"}
+{"Carry Me In Your Dreams":"Kejsi Tola (Albania, 2009)"}
+{"Lijepa Tena":"Igor Cukrov feat. Andrea (Croatia, 2009)"}
+{"The Balkan Girls":"Elena (Romania, 2009)"}
+{"Miss Kiss Kiss Bang":"Alex Swings Oscar Sings! (Germany, 2009)"}
+{"La Voix":"Malena Ernman (Sweden, 2009)"}
+{"What If We":"Chiara (Malta, 2009)"}
+{"Love":"Sasha Son (Lithuania, 2009)"}
+{"La Noche Es Para M\u00ed (The Night Is For Me)":"Soraya (Spain, 2009)"}
+{"Lose Control":"Waldo's People (Finland, 2009)"}
+{"Cipela":"Marko Kon & Milaan (Serbia, 2009)"}
+{"Et Cetera":"Sin\u00e9ad Mulvey & Black Daisy (Ireland, 2009)"}
+{"Neshto Shto Ke Ostane":"Next Time (North Macedonia, 2009)"}
+{"Just Get Out of My Life":"Andrea Demirovi\u0107 (Montenegro, 2009)"}
+{"I Don't Wanna Leave":"Lidia Kopania (Poland, 2009)"}
+{"Firefly":"Christina Metaxa (Cyprus, 2009)"}
+{"Eyes That Never Lie":"Petr Elfimov (Belarus, 2009)"}
+{"The Highest Heights":"Lovebugs (Switzerland, 2009)"}
+{"Dance With Me":"Zoli \u00c1dok (Hungary, 2009)"}
+{"Love Symphony":"Quartissimo feat. Martina (Slovenia, 2009)"}
+{"Shine":"The Toppers (Netherlands, 2009)"}
+{"La Teva Decisi\u00f3 (Get A Life)":"Susanne Georgi (Andorra, 2009)"}
+{"Le\u0165 Tmou":"Kamil Mikul\u010d\u00edk & Nela Pociskov\u00e1 (Slovakia, 2009)"}
+{"Illusion":"Krassimir Avramov (Bulgaria, 2009)"}
+{"Probka":"Intars Busulis (Latvia, 2009)"}
+{"":"Copycat (Belgium, 2009)"}
+{"Aven Romale":"Gipsy.cz (Czech Republic, 2009)"}
+{"Satellite":"Lena (Germany, 2010)"}
+{"We Could Be The Same":"maNga (Turkey, 2010)"}
+{"Playing With Fire":"Paula Seling & Ovi (Romania, 2010)"}
+{"In A Moment Like This":"Chan\u00e9e & N'evergreen (Denmark, 2010)"}
+{"Drip Drop":"Safura (Azerbaijan, 2010)"}
+{"Me And My Guitar":"Tom Dice (Belgium, 2010)"}
+{"Apricot Stone":"Eva Rivas (Armenia, 2010)"}
+{"OPA":"Giorgos Alkaios & Friends (Greece, 2010)"}
+{"Shine":"Sofia Nizharadze (Georgia, 2010)"}
+{"Sweet People":"Alyosha (Ukraine, 2010)"}
+{"Lost And Forgotten":"Peter Nalitch & Friends (Russia, 2010)"}
+{"Allez Olla Ol\u00e9":"Jessy Matador (France, 2010)"}
+{"Ovo Je Balkan":"Milan Stankovi\u0107 (Serbia, 2010)"}
+{"Milim":"Harel Skaat (Israel, 2010)"}
+{"Algo Peque\u00f1ito":"Daniel Diges (Spain, 2010)"}
+{"It's All About You":"Juliana Pasha (Albania, 2010)"}
+{"Thunder and Lightning":"Vuka\u0161in Braji\u0107 (Bosnia & Herzegovina, 2010)"}
+{"H\u00e1 Dias Assim":"Filipa Azevedo (Portugal, 2010)"}
+{"Je Ne Sais Quoi":"Hera Bj\u00f6rk (Iceland, 2010)"}
+{"My Heart Is Yours":"Didrik Solli-Tangen (Norway, 2010)"}
+{"Life Looks Better In Spring":"Jon Lilygreen & The Islanders (Cyprus, 2010)"}
+{"Run Away":"Sunstroke Project & Olia Tira (Moldova, 2010)"}
+{"It's For You":"Niamh Kavanagh (Ireland, 2010)"}
+{"Butterflies":"3+2 (Belarus, 2010)"}
+{"That Sounds Good To Me":"Josh (United Kingdom, 2010)"}
+{"This Is My Life":"Anna Bergendahl (Sweden, 2010)"}
+{"Ty\u00f6lki Ell\u00e4\u00e4":"Kuunkuiskaajat (Finland, 2010)"}
+{"Eastern European Funk":"InCulto (Lithuania, 2010)"}
+{"My Dream":"Thea Garrett (Malta, 2010)"}
+{"Legenda":"Marcin Mrozi\u0144ski (Poland, 2010)"}
+{"Siren":"Malcolm Lincoln (Estonia, 2010)"}
+{"Jas Ja Imam Silata":"Gjoko Taneski (North Macedonia, 2010)"}
+{"Lako Je Sve":"Feminnem (Croatia, 2010)"}
+{"Ik Ben Verliefd (Sha-la-lie)":"Sieneke (Netherlands, 2010)"}
+{"Horehronie":"Kristina Pelakova (Slovakia, 2010)"}
+{"Angel Si Ti":"Miro (Bulgaria, 2010)"}
+{"What For?":"Aisha (Latvia, 2010)"}
+{"Narodnozabavni Rock":"Ansambel \u017dlindra & Kalamari (Slovenia, 2010)"}
+{"Il Pleut de L'Or":"Michael von der Heide (Switzerland, 2010)"}
+{"Running Scared":"Ell\/Nikki (Azerbaijan, 2011)"}
+{"Madness Of Love":"Raphael Gualazzi (Italy, 2011)"}
+{"Popular":"Eric Saade (Sweden, 2011)"}
+{"Angel":"Mika Newton (Ukraine, 2011)"}
+{"New Tomorrow":"A Friend In London (Denmark, 2011)"}
+{"Love In Rewind":"Dino Merlin (Bosnia & Herzegovina, 2011)"}
+{"Watch My Dance":"Loucas Yiorkas feat. Stereo Mike (Greece, 2011)"}
+{"Lipstick":"Jedward (Ireland, 2011)"}
+{"One More Day":"Eldrine (Georgia, 2011)"}
+{"Taken By A Stranger":"Lena (Germany, 2011)"}
+{"I Can":"Blue (United Kingdom, 2011)"}
+{"So Lucky":"Zdob \u0219i Zdub (Moldova, 2011)"}
+{"No One":"Maja Keuc (Slovenia, 2011)"}
+{"\u010caroban":"Nina (Serbia, 2011)"}
+{"Sognu":"Amaury Vassili (France, 2011)"}
+{"Get You":"Alexej Vorobjov (Russia, 2011)"}
+{"Change":"Hotel FM (Romania, 2011)"}
+{"The Secret Is Love":"Nadine Beiler (Austria, 2011)"}
+{"C'est Ma Vie":"Evelina Sa\u0161enko (Lithuania, 2011)"}
+{"Coming Home":"Sjonni's Friends (Iceland, 2011)"}
+{"Da Da Dam":"Paradise Oskar (Finland, 2011)"}
+{"What About My Dreams?":"Kati Wolf (Hungary, 2011)"}
+{"Que Me Quiten Lo Bailao":"Luc\u00eda P\u00e9rez (Spain, 2011)"}
+{"Rockefeller Street":"Getter Jaani (Estonia, 2011)"}
+{"In Love For A While":"Anna Rossinelli (Switzerland, 2011)"}
+{"One Life":"Glen Vella (Malta, 2011)"}
+{"Boom Boom":"Emmy (Armenia, 2011)"}
+{"With Love Baby":"Witloof Bay (Belgium, 2011)"}
+{"Live It Up":"Y\u00fcksek Sadakat (Turkey, 2011)"}
+{"Feel The Passion":"Aurela Ga\u00e7e (Albania, 2011)"}
+{"Na Inat":"Poli Genova (Bulgaria, 2011)"}
+{"I'm Still Alive":"TWiiNS (Slovakia, 2011)"}
+{"I Love Belarus":"Anastasiya Vinnikova (Belarus, 2011)"}
+{"Celebrate":"Daria (Croatia, 2011)"}
+{"Ding Dong":"Dana International (Israel, 2011)"}
+{"Rusinka":"Vlatko Ilievski (North Macedonia, 2011)"}
+{"Stand By":"Senit (San Marino, 2011)"}
+{"Haba Haba":"Stella Mwangi (Norway, 2011)"}
+{"Angel In Disguise":"Musiqq (Latvia, 2011)"}
+{"Luta \u00c9 Alegria":"Homens Da Luta (Portugal, 2011)"}
+{"Jestem":"Magdalena Tul (Poland, 2011)"}
+{"San Aggelos S'agapisa":"Christos Mylordos (Cyprus, 2011)"}
+{"Never Alone":"3JS (Netherlands, 2011)"}
+{"Euphoria":"Loreen (Sweden, 2012)"}
+{"Party For Everybody":"Buranovskiye Babushki (Russia, 2012)"}
+{"Nije Ljubav Stvar":"\u017deljko Joksimovi\u0107 (Serbia, 2012)"}
+{"When The Music Dies":"Sabina Babayeva (Azerbaijan, 2012)"}
+{"Suus":"Rona Nishliu (Albania, 2012)"}
+{"Kuula":"Ott Lepland (Estonia, 2012)"}
+{"Love Me Back":"Can Bonomo (Turkey, 2012)"}
+{"Standing Still":"Roman Lob (Germany, 2012)"}
+{"L'Amore \u00c8 Femmina (Out Of Love)":"Nina Zilli (Italy, 2012)"}
+{"Qu\u00e9date Conmigo":"Pastora Soler (Spain, 2012)"}
+{"L\u0103utar":"Pasha Parfeny (Moldova, 2012)"}
+{"Zaleilah":"Mandinga (Romania, 2012)"}
+{"Crno I Belo":"Kaliopi (North Macedonia, 2012)"}
+{"Love Is Blind":"Donny Montell (Lithuania, 2012)"}
+{"Be My Guest":"Gaitana (Ukraine, 2012)"}
+{"La La Love":"Ivi Adamou (Cyprus, 2012)"}
+{"Aphrodisiac":"Eleftheria Eleftheriou (Greece, 2012)"}
+{"Korake Ti Znam":"Maya Sar (Bosnia & Herzegovina, 2012)"}
+{"Waterline":"Jedward (Ireland, 2012)"}
+{"Never Forget":"Greta Sal\u00f3me & J\u00f3nsi (Iceland, 2012)"}
+{"This Is The Night":"Kurt Calleja (Malta, 2012)"}
+{"Echo (You And I)":"Anggun (France, 2012)"}
+{"Should've Known Better":"Soluna Samay (Denmark, 2012)"}
+{"Sound Of Our Hearts":"Compact Disco (Hungary, 2012)"}
+{"Love Will Set You Free":"Engelbert Humperdinck (United Kingdom, 2012)"}
+{"Stay":"Tooji (Norway, 2012)"}
+{"Love Unlimited":"Sofi Marinova (Bulgaria, 2012)"}
+{"Unbreakable":"Sinplus (Switzerland, 2012)"}
+{"Nebo":"Nina Badri\u0107 (Croatia, 2012)"}
+{"N\u00e4r Jag Blundar":"Pernilla (Finland, 2012)"}
+{"Vida Minha":"Filipa Sousa (Portugal, 2012)"}
+{"I'm A Joker":"Anri Jokhadze (Georgia, 2012)"}
+{"You And Me":"Joan Franka (Netherlands, 2012)"}
+{"We Are The Heroes":"Litesound (Belarus, 2012)"}
+{"Time":"Izabo (Israel, 2012)"}
+{"The Social Network Song (Oh Oh \u2013 Uh - Oh Oh)":"Valentina Monetta (San Marino, 2012)"}
+{"Verjamem":"Eva Boto (Slovenia, 2012)"}
+{"Don't Close Your Eyes":"Max Jason Mai (Slovakia, 2012)"}
+{"Euro Neuro":"Rambo Amadeus (Montenegro, 2012)"}
+{"Beautiful Song":"Anmary (Latvia, 2012)"}
+{"Would You?":"Iris (Belgium, 2012)"}
+{"Woki Mit Deim Popo":"Trackshittaz (Austria, 2012)"}
+{"Only Teardrops":"Emmelie de Forest (Denmark, 2013)"}
+{"Hold Me":"Farid Mammadov (Azerbaijan, 2013)"}
+{"Gravity":"Zlata Ognevich (Ukraine, 2013)"}
+{"I Feed You My Love":"Margaret Berger (Norway, 2013)"}
+{"What If":"Dina Garipova (Russia, 2013)"}
+{"Alcohol Is Free":"Koza Mostra feat. Agathon Iakovidis (Greece, 2013)"}
+{"L'Essenziale":"Marco Mengoni (Italy, 2013)"}
+{"Tomorrow":"Gianluca (Malta, 2013)"}
+{"Birds":"Anouk (Netherlands, 2013)"}
+{"Kedvesem":"ByeAlex (Hungary, 2013)"}
+{"O Mie":"Aliona Moon (Moldova, 2013)"}
+{"Love Kills":"Roberto Bellarosa (Belgium, 2013)"}
+{"It's My Life":"Cezar (Romania, 2013)"}
+{"You":"Robin Stjernberg (Sweden, 2013)"}
+{"Waterfall":"Nodi Tatishvili & Sophie Gelovani (Georgia, 2013)"}
+{"Solayoh":"Alyona Lanskaya (Belarus, 2013)"}
+{"\u00c9g \u00c1 L\u00edf":"Eythor Ingi (Iceland, 2013)"}
+{"Lonely Planet":"Dorians (Armenia, 2013)"}
+{"Believe In Me":"Bonnie Tyler (United Kingdom, 2013)"}
+{"Et Uus Saaks Alguse":"Birgit (Estonia, 2013)"}
+{"Glorious":"Cascada (Germany, 2013)"}
+{"Something":"Andrius Pojavis (Lithuania, 2013)"}
+{"L'enfer Et Moi":"Amandine Bourgeois (France, 2013)"}
+{"Marry Me":"Krista Siegfrids (Finland, 2013)"}
+{"Contigo Hasta El Final (With You Until The End)":"ESDM (Spain, 2013)"}
+{"Only Love Survives":"Ryan Dolan (Ireland, 2013)"}
+{"Ljubav Je Svuda":"Moje 3 (Serbia, 2013)"}
+{"Crisalide (Vola)":"Valentina Monetta (San Marino, 2013)"}
+{"Samo Shampioni":"Elitsa Todorova, Stoyan Yankulov (Bulgaria, 2013)"}
+{"Igranka":"Who See (Montenegro, 2013)"}
+{"You And Me":"Takasa (Switzerland, 2013)"}
+{"Mi\u017eerja":"Klapa s mora (Croatia, 2013)"}
+{"Rak Bishvilo":"Moran Mazor (Israel, 2013)"}
+{"Identitet":"Adrian Lulgjuraj & Bledar Sejko (Albania, 2013)"}
+{"Shine":"Nat\u00e1lia Kelly (Austria, 2013)"}
+{"Pred Da Se Razdeni":"Esma & Lozano (North Macedonia, 2013)"}
+{"Here We Go":"PeR (Latvia, 2013)"}
+{"An Me Thimasai":"Despina Olympiou (Cyprus, 2013)"}
+{"Straight Into Love":"Hannah (Slovenia, 2013)"}
+{"Rise Like a Phoenix":"Conchita Wurst (Austria, 2014)"}
+{"Calm After The Storm":"The Common Linnets (Netherlands, 2014)"}
+{"Undo":"Sanna Nielsen (Sweden, 2014)"}
+{"Not Alone":"Aram MP3 (Armenia, 2014)"}
+{"Running":"Andr\u00e1s K\u00e1llay-Saunders (Hungary, 2014)"}
+{"Tick - Tock":"Mariya Yaremchuk (Ukraine, 2014)"}
+{"Shine":"Tolmachevy Sisters (Russia, 2014)"}
+{"Silent Storm":"Carl Espen (Norway, 2014)"}
+{"Cliche Love Song":"Basim (Denmark, 2014)"}
+{"Dancing in the rain":"Ruth Lorenzo (Spain, 2014)"}
+{"Something Better":"Softengine (Finland, 2014)"}
+{"Miracle":"Paula Seling & OVI (Romania, 2014)"}
+{"Hunter Of Stars":"Sebalter (Switzerland, 2014)"}
+{"My S\u0142owianie - We Are Slavic":"Donatan & Cleo (Poland, 2014)"}
+{"No Prejudice":"Pollap\u00f6nk (Iceland, 2014)"}
+{"Cheesecake":"Teo (Belarus, 2014)"}
+{"Children of the Universe":"Molly (United Kingdom, 2014)"}
+{"Is It Right":"Elaiza (Germany, 2014)"}
+{"Moj Svijet":"Sergej \u0106etkovi\u0107 (Montenegro, 2014)"}
+{"Rise Up":"Freaky Fortune feat. RiskyKidd (Greece, 2014)"}
+{"La Mia Citt\u00e0":"Emma (Italy, 2014)"}
+{"Start A Fire":"Dilara Kazimova (Azerbaijan, 2014)"}
+{"Coming Home":"Firelight (Malta, 2014)"}
+{"Maybe (Forse)":"Valentina Monetta (San Marino, 2014)"}
+{"Round and Round":"Tinkara Kova\u010d (Slovenia, 2014)"}
+{"Moustache":"TWIN TWIN (France, 2014)"}
+{"Quero Ser Tua":"Suzy (Portugal, 2014)"}
+{"Attention":"Vilija Mata\u010di\u016bnait\u0117 (Lithuania, 2014)"}
+{"Heartbeat":"Can-Linn feat. Kasey Smith (Ireland, 2014)"}
+{"Amazing":"Tanja (Estonia, 2014)"}
+{"To the Sky":"Tijana (North Macedonia, 2014)"}
+{"Cake To Bake":"Aarzemnieki (Latvia, 2014)"}
+{"Mother":"Axel Hirsoux (Belgium, 2014)"}
+{"One Night's Anger":"Hersi (Albania, 2014)"}
+{"Same Heart":"Mei Finegold (Israel, 2014)"}
+{"Three Minutes To Earth":"The Shin and Mariko (Georgia, 2014)"}
+{"Wild Soul":"Cristina Scarlat (Moldova, 2014)"}
+{"Heroes":"M\u00e5ns Zelmerl\u00f6w (Sweden, 2015)"}
+{"A Million Voices":"Polina Gagarina (Russia, 2015)"}
+{"Grande Amore":"Il Volo (Italy, 2015)"}
+{"Rhythm Inside":"Lo\u00efc Nottet (Belgium, 2015)"}
+{"Tonight Again":"Guy Sebastian (Australia, 2015)"}
+{"Love Injected":"Aminata Savadogo (Latvia, 2015)"}
+{"Goodbye to Yesterday":"Elina Born & Stig R\u00e4sta (Estonia, 2015)"}
+{"A Monster Like Me":"M\u00f8rland & Debrah Scarlett (Norway, 2015)"}
+{"Golden Boy":"Nadav Guedj (Israel, 2015)"}
+{"Beauty Never Lies":"Bojana Stamenov (Serbia, 2015)"}
+{"Warrior":"Nina Sublatti (Georgia, 2015)"}
+{"Hour Of The Wolf":"Elnur H\u00fcseynov (Azerbaijan, 2015)"}
+{"Adio":"Knez (Montenegro, 2015)"}
+{"Here for You":"Maraaya (Slovenia, 2015)"}
+{"De La Cap\u0103t \/ All Over Again":"Voltaj (Romania, 2015)"}
+{"Face The Shadow":"Genealogy (Armenia, 2015)"}
+{"I'm Alive":"Elhaida Dani (Albania, 2015)"}
+{"This Time":"Monika & Vaidas (Lithuania, 2015)"}
+{"One Last Breath":"Maria Elena Kyriakou (Greece, 2015)"}
+{"Wars For Nothing":"Boggie (Hungary, 2015)"}
+{"Amanecer":"Edurne (Spain, 2015)"}
+{"One Thing I Should Have Done":"John Karayiannis (Cyprus, 2015)"}
+{"In The Name Of Love":"Monika Kuszy\u0144ska (Poland, 2015)"}
+{"Still in Love with You":"Electro Velvet (United Kingdom, 2015)"}
+{"N\u2019oubliez pas":"Lisa Angell (France, 2015)"}
+{"I Am Yours":"The Makemakes (Austria, 2015)"}
+{"Black Smoke":"Ann Sophie (Germany, 2015)"}
+{"I Want Your Love":"Eduard Romanyuta (Moldova, 2015)"}
+{"Warrior":"Amber (Malta, 2015)"}
+{"Time":"Uzari & Maimuna (Belarus, 2015)"}
+{"Playing With Numbers":"Molly Sterling (Ireland, 2015)"}
+{"The Way You Are":"Anti Social Media (Denmark, 2015)"}
+{"Walk Along":"Trijntje Oosterhuis (Netherlands, 2015)"}
+{"Hope Never Dies":"Marta Jandov\u00e1 & V\u00e1clav Noid B\u00e1rta (Czech Republic, 2015)"}
+{"Autumn Leaves":"Daniel Kajmakoski (North Macedonia, 2015)"}
+{"H\u00e1 um mar que nos Separa":"Leonor Andrade (Portugal, 2015)"}
+{"Unbroken":"Mar\u00eda \u00d3lafsd\u00f3ttir (Iceland, 2015)"}
+{"Aina Mun Pit\u00e4\u00e4":"Pertti Kurikan Nimip\u00e4iv\u00e4t (Finland, 2015)"}
+{"Chain Of Lights":"Michele Perniola & Anita Simoncini (San Marino, 2015)"}
+{"Time To Shine":"M\u00e9lanie Ren\u00e9 (Switzerland, 2015)"}
+{"1944":"Jamala (Ukraine, 2016)"}
+{"Sound of Silence":"Dami Im (Australia, 2016)"}
+{"You Are the Only One":"Sergey Lazarev (Russia, 2016)"}
+{"If Love Was a Crime":"Poli Genova (Bulgaria, 2016)"}
+{"If I Were Sorry":"Frans (Sweden, 2016)"}
+{"J'ai Cherch\u00e9":"Amir (France, 2016)"}
+{"LoveWave":"Iveta Mukuchyan (Armenia, 2016)"}
+{"Color of Your Life":"Micha\u0142 Szpak (Poland, 2016)"}
+{"I've Been Waiting for This Night":"Donny Montell (Lithuania, 2016)"}
+{"What's the Pressure":"Laura Tesoro (Belgium, 2016)"}
+{"Slow Down":"Douwe Bob (Netherlands, 2016)"}
+{"Walk on Water":"Ira Losco (Malta, 2016)"}
+{"Loin d'ici":"Zo\u00eb (Austria, 2016)"}
+{"Made of Stars":"Hovi Star (Israel, 2016)"}
+{"Heartbeat":"Justs (Latvia, 2016)"}
+{"No Degree of Separation":"Francesca Michielin (Italy, 2016)"}
+{"Miracle":"Samra (Azerbaijan, 2016)"}
+{"Goodbye (Shelter)":"Sanja Vu\u010di\u0107 ZAA (Serbia, 2016)"}
+{"Pioneer":"Freddie (Hungary, 2016)"}
+{"Midnight Gold":"Nika Kocharov & Young Georgian Lolitaz (Georgia, 2016)"}
+{"Alter Ego":"Minus One (Cyprus, 2016)"}
+{"Say Yay!":"Barei (Spain, 2016)"}
+{"Lighthouse":"Nina Kralji\u0107 (Croatia, 2016)"}
+{"You're Not Alone":"Joe & Jake (United Kingdom, 2016)"}
+{"I Stand":"Gabriela Gun\u010d\u00edkov\u00e1 (Czech Republic, 2016)"}
+{"Ghost":"Jamie-Lee Kriewitz (Germany, 2016)"}
+{"Ljubav Je":"Dalal & Deen feat. Ana Rucner & Jala (Bosnia & Herzegovina, 2016)"}
+{"Dona":"Kaliopi (North Macedonia, 2016)"}
+{"Help You Fly":"Ivan (Belarus, 2016)"}
+{"I Didn't Know":"Serhat (San Marino, 2016)"}
+{"Icebreaker":"Agnete (Norway, 2016)"}
+{"The Real Thing":"Highway (Montenegro, 2016)"}
+{"Blue and Red":"ManuElla (Slovenia, 2016)"}
+{"Hear Them Calling":"Greta Sal\u00f3me (Iceland, 2016)"}
+{"Sing It Away":"Sandhja (Finland, 2016)"}
+{"Sunlight":"Nicky Byrne (Ireland, 2016)"}
+{"Fairytale":"Eneda Tarifa (Albania, 2016)"}
+{"Utopian Land":"Argo (Greece, 2016)"}
+{"Soldiers of Love":"Lighthouse X (Denmark, 2016)"}
+{"Falling Stars":"Lidia Isac (Moldova, 2016)"}
+{"The Last of Our Kind":"Rykka (Switzerland, 2016)"}
+{"Play":"J\u00fcri Pootsmann (Estonia, 2016)"}
+{"Amar Pelos Dois":"Salvador Sobral (Portugal, 2017)"}
+{"Beautiful Mess":"Kristian Kostov (Bulgaria, 2017)"}
+{"Hey Mamma":"Sunstroke Project (Moldova, 2017)"}
+{"City Lights":"Blanche (Belgium, 2017)"}
+{"I Can't Go On":"Robin Bengtsson (Sweden, 2017)"}
+{"Occidentali's Karma":"Francesco Gabbani (Italy, 2017)"}
+{"Yodel It!":"Ilinca feat. Alex Florea (Romania, 2017)"}
+{"Origo":"Joci P\u00e1pai (Hungary, 2017)"}
+{"Don't Come Easy":"Isaiah Firebrace (Australia, 2017)"}
+{"Grab the Moment":"Jowst (Norway, 2017)"}
+{"Lights And Shadows":"OG3NE (Netherlands, 2017)"}
+{"Requiem":"Alma (France, 2017)"}
+{"My Friend":"Jacques Houdek (Croatia, 2017)"}
+{"Skeletons":"Dihaj (Azerbaijan, 2017)"}
+{"Never Give Up on You":"Lucie Jones (United Kingdom, 2017)"}
+{"Running On Air":"Nathan Trent (Austria, 2017)"}
+{"Historyja Majho Zyccia":"Naviband (Belarus, 2017)"}
+{"Fly With Me":"Artsvik (Armenia, 2017)"}
+{"This is Love":"Demy (Greece, 2017)"}
+{"Where I Am":"Anja (Denmark, 2017)"}
+{"Gravity":"Hovig (Cyprus, 2017)"}
+{"Flashlight":"Kasia Mo\u015b (Poland, 2017)"}
+{"I Feel Alive":"Imri Ziv (Israel, 2017)"}
+{"Time":"O.Torvald (Ukraine, 2017)"}
+{"Perfect Life":"Levina (Germany, 2017)"}
+{"Do It for Your Lover":"Manel Navarro (Spain, 2017)"}
+{"Keep The Faith":"Tamara Gachechiladze (Georgia, 2017)"}
+{"In Too Deep":"Tijana Bogi\u0107evi\u0107 (Serbia, 2017)"}
+{"Apollo":"Timebelle (Switzerland, 2017)"}
+{"Blackbird":"Norma John (Finland, 2017)"}
+{"Dying To Try":"Brendan Murray (Ireland, 2017)"}
+{"Verona":"Koit Toome & Laura (Estonia, 2017)"}
+{"My Turn":"Martina B\u00e1rta (Czech Republic, 2017)"}
+{"World":"Lindita (Albania, 2017)"}
+{"Dance Alone":"Jana Bur\u010deska (North Macedonia, 2017)"}
+{"Paper":"Svala (Iceland, 2017)"}
+{"Space":"Slavko Kalezi\u0107 (Montenegro, 2017)"}
+{"Breathlessly":"Claudia Faniello (Malta, 2017)"}
+{"Rain Of Revolution":"Fusedmarc (Lithuania, 2017)"}
+{"On My Way":"Omar Naber (Slovenia, 2017)"}
+{"Line":"Triana Park (Latvia, 2017)"}
+{"Spirit Of The Night":"Valentina Monetta & Jimmie Wilson (San Marino, 2017)"}
+{"Toy":"Netta Barzilai (Israel, 2018)"}
+{"Fuego":"Eleni Foureira (Cyprus, 2018)"}
+{"Nobody But You":"Ces\u00e1r Sampson (Austria, 2018)"}
+{"You Let Me Walk Alone":"Michael Schulte (Germany, 2018)"}
+{"Non Mi Avete Fatto Niente":"Ermal Meta & Fabrizio Moro (Italy, 2018)"}
+{"Lie To Me":"Mikolas Josef (Czech Republic, 2018)"}
+{"Dance You Off":"Benjamin Ingrosso (Sweden, 2018)"}
+{"La Forza":"Elina Nechayeva (Estonia, 2018)"}
+{"Higher Ground":"Rasmussen (Denmark, 2018)"}
+{"My Lucky Day":"DoReDos (Moldova, 2018)"}
+{"Mall":"Eugent Bushpepa (Albania, 2018)"}
+{"When We're Old":"Ieva Zasimauskait\u0117 (Lithuania, 2018)"}
+{"Mercy":"Madame Monsieur (France, 2018)"}
+{"Bones":"Equinox (Bulgaria, 2018)"}
+{"That's How You Write a Song":"Alexander Rybak (Norway, 2018)"}
+{"Together":"Ryan O'Shaughnessy (Ireland, 2018)"}
+{"Under the Ladder":"M\u00e9lovin (Ukraine, 2018)"}
+{"Outlaw In 'Em":"Waylon (Netherlands, 2018)"}
+{"Nova Deca":"Sanja Ili\u0107 & Balkanika (Serbia, 2018)"}
+{"We Got Love":"Jessica Mauboy (Australia, 2018)"}
+{"Viszl\u00e1t Ny\u00e1r":"AWS (Hungary, 2018)"}
+{"Hvala, ne!":"Lea Sirk (Slovenia, 2018)"}
+{"Tu Canci\u00f3n":"Amaia & Alfred (Spain, 2018)"}
+{"Storm":"SuRie (United Kingdom, 2018)"}
+{"Monsters":"Saara Aalto (Finland, 2018)"}
+{"O Jardim":"Cl\u00e1udia Pascoal (Portugal, 2018)"}
+{"Goodbye":"The Humans (Romania, 2018)"}
+{"Funny Girl":"Laura Rizzotto (Latvia, 2018)"}
+{"Taboo":"Christabelle (Malta, 2018)"}
+{"X My Heart":"Aisel (Azerbaijan, 2018)"}
+{"A Matter of Time":"Sennek (Belgium, 2018)"}
+{"Stones":"Zibbz (Switzerland, 2018)"}
+{"Light Me Up":"Gromee feat. Lukas Meijer (Poland, 2018)"}
+{"Oniro Mou":"Yianna Terzi (Greece, 2018)"}
+{"Qami":"Sevak Khanagyan (Armenia, 2018)"}
+{"I Won't Break":"Julia Samoylova (Russia, 2018)"}
+{"Forever":"Alekseev (Belarus, 2018)"}
+{"Crazy":"Franka (Croatia, 2018)"}
+{"Inje":"Vanja Radovanovi\u0107 (Montenegro, 2018)"}
+{"Who We Are":"Jessika feat. Jenifer Brening (San Marino, 2018)"}
+{"For You":"Ethno-Jazz Band Iriao (Georgia, 2018)"}
+{"Lost And Found":"Eye Cue (North Macedonia, 2018)"}
+{"Our Choice":"Ari \u00d3lafsson (Iceland, 2018)"}
+{"Arcade":"Duncan Laurence (Netherlands, 2019)"}
+{"Soldi":"Mahmood (Italy, 2019)"}
+{"Scream":"Sergey Lazarev (Russia, 2019)"}
+{"She Got Me":"Luca H\u00e4nni (Switzerland, 2019)"}
+{"Too Late for Love":"John Lundvik (Sweden, 2019)"}
+{"Spirit in the Sky":"KEiiNO (Norway, 2019)"}
+{"Proud":"Tamara Todevska (North Macedonia, 2019)"}
+{"Truth":"Chingiz (Azerbaijan, 2019)"}
+{"Zero Gravity":"Kate Miller-Heidke (Australia, 2019)"}
+{"Hatri\u00f0 mun sigra":"Hatari (Iceland, 2019)"}
+{"Friend of a Friend":"Lake Malawi (Czech Republic, 2019)"}
+{"Love Is Forever":"Leonora (Denmark, 2019)"}
+{"Replay":"Tamta (Cyprus, 2019)"}
+{"Chameleon":"Michela Pace (Malta, 2019)"}
+{"Sebi":"Zala Kralj & Ga\u0161per \u0160antl (Slovenia, 2019)"}
+{"Roi":"Bilal Hassani (France, 2019)"}
+{"Ktheju Tok\u00ebs":"Jonida Maliqi (Albania, 2019)"}
+{"Kruna":"Nevena Bo\u017eovi\u0107 (Serbia, 2019)"}
+{"Say Na Na Na":"Serhat (San Marino, 2019)"}
+{"Storm":"Victor Crone (Estonia, 2019)"}
+{"Better Love":"Katerine Duska (Greece, 2019)"}
+{"La Venda":"Miki (Spain, 2019)"}
+{"Home":"Kobi Marimi (Israel, 2019)"}
+{"Like It":"Zena (Belarus, 2019)"}
+{"Sister":"S!sters (Germany, 2019)"}
+{"Bigger Than Us":"Michael Rice (United Kingdom, 2019)"}
+{"Pali si\u0119":"Tulia (Poland, 2019)"}
+{"Az \u00e9n ap\u00e1m":"Joci P\u00e1pai (Hungary, 2019)"}
+{"Run with the Lions":"Jurij Veklenko (Lithuania, 2019)"}
+{"Stay":"Anna Odobescu (Moldova, 2019)"}
+{"Wake Up":"Eliot (Belgium, 2019)"}
+{"On a Sunday":"Ester Peony (Romania, 2019)"}
+{"Keep on Going":"Oto Nemsadze (Georgia, 2019)"}
+{"The Dream":"Roko (Croatia, 2019)"}
+{"Telem\u00f3veis":"Conan Os\u00edris (Portugal, 2019)"}
+{"That Night":"Carousel (Latvia, 2019)"}
+{"Walking Out":"Srbuk (Armenia, 2019)"}
+{"Heaven":"D mol (Montenegro, 2019)"}
+{"Look Away":"Darude feat. Sebastian Rejman (Finland, 2019)"}
+{"Limits":"P\u00e6nda (Austria, 2019)"}
+{"22":"Sarah McTernan (Ireland, 2019)"}
+{"The Best in Me":"Tom Leeb (France, 2020)"}
+{"Violent Thing":"Ben Dolic (Germany, 2020)"}
+{"Fai rumore":"Diodato (Italy, 2020)"}
+{"Grow":"Jeangu Macrooy (Netherlands, 2020)"}
+{"Universo":"Blas Cant\u00f3 (Spain, 2020)"}
+{"My Last Breath":"James Newman (United Kingdom, 2020)"}
+{"Don't Break Me":"Montaigne (Australia, 2020)"}
+{"Da vidna":"VAL (Belarus, 2020)"}
+{"Story Of My Life":"Lesley Roy (Ireland, 2020)"}
+{"On Fire":"The Roop (Lithuania, 2020)"}
+{"You":"Vasil (North Macedonia, 2020)"}
+{"Uno":"Little Big (Russia, 2020)"}
+{"Voda":"Ana Sokli\u010d (Slovenia, 2020)"}
+{"Move":"The Mamas (Sweden, 2020)"}
+{"Cleopatra":"Samira Efendi (Azerbaijan, 2020)"}
+{"Release Me":"Hooverphonic (Belgium, 2020)"}
+{"Divlji vjetre":"Damir Ked\u017eo (Croatia, 2020)"}
+{"Running":"Sandro Nicolas (Cyprus, 2020)"}
+{"Feker Libi":"Eden Alene (Israel, 2020)"}
+{"All Of My Love":"Destiny (Malta, 2020)"}
+{"Attention":"Ulrikke Brandstorp (Norway, 2020)"}
+{"Alcohol You":"Roxen (Romania, 2020)"}
+{"Solovey":"Go_A (Ukraine, 2020)"}
+{"Alive":"Vincent Bueno (Austria, 2020)"}
+{"Kemama":"Benny Cristo (Czech Republic, 2020)"}
+{"What Love Is":"Uku Suviste (Estonia, 2020)"}
+{"Superg!rl\u200b":"Stefania (Greece, 2020)"}
+{"Think About Things":"Da\u00f0i & Gagnamagni\u00f0 (Iceland, 2020)"}
+{"Prison":"Natalia Gordienko (Moldova, 2020)"}
+{"Empires":"Alicja Szempli\u0144ska (Poland, 2020)"}
+{"Freaky!":"Senhit (San Marino, 2020)"}
+{"Hasta la vista":"Hurricane (Serbia, 2020)"}
+{"Fall From The Sky":"Arilena Ara (Albania, 2020)"}
+{"Chains On You":"Athena Manoukian (Armenia, 2020)"}
+{"Tears Getting Sober":"Victoria (Bulgaria, 2020)"}
+{"Yes":"Ben & Tan (Denmark, 2020)"}
+{"Looking Back":"Aksel Kankaanranta (Finland, 2020)"}
+{"Take Me As I Am":"Tornike Kipiani (Georgia, 2020)"}
+{"Still Breathing":"Samanta T\u012bna (Latvia, 2020)"}
+{"Medo de sentir":"Elisa (Portugal, 2020)"}
+{"R\u00e9pondez-moi":"Gjon's Tears (Switzerland, 2020)"}
+{"Zitti e buoni":"M\u00e5neskin (Italy, 2021)"}
+{"Voil\u00e0":"Barbara Pravi (France, 2021)"}
+{"Tout l'univers":"Gjon's Tears (Switzerland, 2021)"}
+{"10 Years":"Da\u00f0i & Gagnamagni\u00f0 (Iceland, 2021)"}
+{"Shum":"Go_A (Ukraine, 2021)"}
+{"Dark Side":"Blind Channel (Finland, 2021)"}
+{"Je Me Casse":"Destiny (Malta, 2021)"}
+{"Discoteque":"The Roop (Lithuania, 2021)"}
+{"Russian Woman":"Manizha (Russia, 2021)"}
+{"Last Dance":"Stefania (Greece, 2021)"}
+{"Growing Up Is Getting Old":"Victoria (Bulgaria, 2021)"}
+{"Love Is On My Side":"The Black Mamba (Portugal, 2021)"}
+{"Sugar":"Natalia Gordienko (Moldova, 2021)"}
+{"Voices":"Tusse (Sweden, 2021)"}
+{"Loco Loco":"Hurricane (Serbia, 2021)"}
+{"El Diablo":"Elena Tsagrinou (Cyprus, 2021)"}
+{"Set Me Free":"Eden Alene (Israel, 2021)"}
+{"Fallen Angel":"TIX (Norway, 2021)"}
+{"The Wrong Place":"Hooverphonic (Belgium, 2021)"}
+{"Mata Hari":"Efendi (Azerbaijan, 2021)"}
+{"Karma":"Anxhela Peristeri (Albania, 2021)"}
+{"Adrenalina":"Senhit feat. Flo Rida (San Marino, 2021)"}
+{"Birth Of A New Age":"Jeangu Macrooy (Netherlands, 2021)"}
+{"Voy A Quedarme":"Blas Cant\u00f3 (Spain, 2021)"}
+{"I Don't Feel Hate":"Jendrik (Germany, 2021)"}
+{"Embers":"James Newman (United Kingdom, 2021)"}
+{"Tick-Tock":"Albina (Croatia, 2021)"}
+{"Amnesia":"Roxen (Romania, 2021)"}
+{"\u00d8ve os p\u00e5 hinanden":"Fyr og Flamme (Denmark, 2021)"}
+{"Amen":"Vincent Bueno (Austria, 2021)"}
+{"The Lucky One":"Uku Suviste (Estonia, 2021)"}
+{"Amen":"Ana Sokli\u010d (Slovenia, 2021)"}
+{"The Ride":"Rafa\u0142 (Poland, 2021)"}
+{"Technicolour":"Montaigne (Australia, 2021)"}
+{"Here I Stand":"Vasil (North MacedoniaN.Macedonia, 2021)"}
+{"Omaga":"Benny Cristo (Czechia, 2021)"}
+{"Maps":"Lesley Roy (Ireland, 2021)"}
+{"You":"Tornike Kipiani (Georgia, 2021)"}
+{"The Moon Is Rising":"Samanta T\u012bna (Latvia, 2021)"}
+{"Stefania":"Kalush Orchestra (Ukraine, 2022)"}
+{"Space Man":"Sam Ryder (United Kingdom, 2022)"}
+{"SloMo":"Chanel (Spain, 2022)"}
+{"Hold Me Closer":"Cornelia Jakobs (Sweden, 2022)"}
+{"In Corpore Sano":"Konstrakta (Serbia, 2022)"}
+{"Brividi":"Mahmood & Blanco (Italy, 2022)"}
+{"Trenule\u021bul":"Zdob \u0219i Zdub & Advahov Brothers (Moldova, 2022)"}
+{"Die Together":"Amanda Georgiadi Tenfjord (Greece, 2022)"}
+{"Saudade, saudade":"Maro (Portugal, 2022)"}
+{"Give That Wolf a Banana":"Subwoolfer (Norway, 2022)"}
+{"De Diepte":"S10 (Netherlands, 2022)"}
+{"River":"Ochman (Poland, 2022)"}
+{"Hope":"Stefan (Estonia, 2022)"}
+{"Sentimentai":"Monika Liu (Lithuania, 2022)"}
+{"Not The Same":"Sheldon Riley (Australia, 2022)"}
+{"Fade To Black":"Nadir Rustamli (Azerbaijan, 2022)"}
+{"Boys Do Cry":"Marius Bear (Switzerland, 2022)"}
+{"Ll\u00e1mame":"WRS (Romania, 2022)"}
+{"Miss You":"J\u00e9r\u00e9mie Makiese (Belgium, 2022)"}
+{"Snap":"Rosa Linn (Armenia, 2022)"}
+{"Jezebel":"The Rasmus (Finland, 2022)"}
+{"Lights Off":"We Are Domi (Czechia, 2022)"}
+{"Me\u00f0 h\u00e6kkandi s\u00f3l":"Systur (Iceland, 2022)"}
+{"Fulenn":"Alvan & Ahez (France, 2022)"}
+{"Rockstars":"Malik Harris (Germany, 2022)"}
+{"Guilty Pleasure":"Mia Dim\u0161i\u0107 (Croatia, 2022)"}
+{"Circles":"Andrea (North MacedoniaN.Macedonia, 2022)"}
+{"Sekret":"Ronela Hajati (Albania, 2022)"}
+{"Ela":"Andromache (Cyprus, 2022)"}
+{"I.M":"Michael Ben David (Israel, 2022)"}
+{"The Show":"Reddi (Denmark, 2022)"}
+{"Eat Your Salad":"Citi Z\u0113ni (Latvia, 2022)"}
+{"Stripper":"Achille Lauro (San Marino, 2022)"}
+{"That's Rich":"Brooke Scullion (Ireland, 2022)"}
+{"I Am What I Am":"Emma Muscat (Malta, 2022)"}
+{"Halo":"LUM!X & Pia Maria (Austria, 2022)"}
+{"Breathe":"Vladana (Montenegro, 2022)"}
+{"Intention":"Intelligent Music Project (Bulgaria, 2022)"}
+{"Lock Me In":"Circus Mircus (Georgia, 2022)"}
+{"Disko":"LPS (Slovenia, 2022)"}
+{"Tattoo":"Loreen (Sweden, 2023)"}
+{"Cha Cha Cha":"K\u00e4\u00e4rij\u00e4 (Finland, 2023)"}
+{"Unicorn":"Noa Kirel (Israel, 2023)"}
+{"Due vite":"Marco Mengoni (Italy, 2023)"}
+{"Queen of Kings":"Alessandra (Norway, 2023)"}
+{"Heart of Steel":"Tvorchi (Ukraine, 2023)"}
+{"Because of You":"Gustaph (Belgium, 2023)"}
+{"Bridges":"Alika (Estonia, 2023)"}
+{"Promise":"Voyager (Australia, 2023)"}
+{"My Sister's Crown":"Vesna (Czechia, 2023)"}
+{"Stay":"Monika Linkyt\u0117 (Lithuania, 2023)"}
+{"Break a Broken Heart":"Andrew Lambrou (Cyprus, 2023)"}
+{"Mama \u0160\u010c!":"Let 3 (Croatia, 2023)"}
+{"Future Lover":"Brunette (Armenia, 2023)"}
+{"Who The Hell Is Edgar?":"Teya & Salena (Austria, 2023)"}
+{"\u00c9videmment":"La Zarra (France, 2023)"}
+{"Eaea":"Blanca Paloma (Spain, 2023)"}
+{"Soarele \u0219i Luna":"Pasha Parfeni (Moldova, 2023)"}
+{"Solo":"Blanka (Poland, 2023)"}
+{"Watergun":"Remo Forrer (Switzerland, 2023)"}
+{"Carpe Diem":"Joker Out (Slovenia, 2023)"}
+{"Duje":"Albina & Familja Kelmendi (Albania, 2023)"}
+{"Ai Cora\u00e7\u00e3o":"Mimicat (Portugal, 2023)"}
+{"Samo mi se spava":"Luke Black (Serbia, 2023)"}
+{"I Wrote A Song":"Mae Muller (United Kingdom, 2023)"}
+{"Blood & Glitter":"Lord Of The Lost (Germany, 2023)"}
+{"Power":"Dilj\u00e1 (Iceland, 2023)"}
+{"Aij\u0101":"Sudden Lights (Latvia, 2023)"}
+{"Echo":"Iru (Georgia, 2023)"}
+{"What They Say":"Victor Vernicos (Greece, 2023)"}
+{"We Are One":"Wild Youth (Ireland, 2023)"}
+{"Burning Daylight":"Mia Nicolai & Dion Cooper (Netherlands, 2023)"}
+{"Breaking My Heart":"Reiley (Denmark, 2023)"}
+{"Tell Me More":"TuralTuranX (Azerbaijan, 2023)"}
+{"Dance (Our Own Party)":"The Busker (Malta, 2023)"}
+{"D.G.T. (Off and On)":"Theodor Andrei (Romania, 2023)"}
+{"Like An Animal":"Piqued Jacks (San Marino, 2023)"}
+{"Cha Cha Cha":"K\u00e4\u00e4rij\u00e4 (Finland, 2023)"}
+{"Tattoo":"Loreen (Sweden, 2023)"}
+{"Unicorn":"Noa Kirel (Israel, 2023)"}
+{"My Sister's Crown":"Vesna (Czechia, 2023)"}
+{"Soarele \u0219i Luna":"Pasha Parfeni (Moldova, 2023)"}
+{"Queen of Kings":"Alessandra (Norway, 2023)"}
+{"Watergun":"Remo Forrer (Switzerland, 2023)"}
+{"Mama \u0160\u010c!":"Let 3 (Croatia, 2023)"}
+{"Ai Cora\u00e7\u00e3o":"Mimicat (Portugal, 2023)"}
+{"Samo mi se spava":"Luke Black (Serbia, 2023)"}
+{"Aij\u0101":"Sudden Lights (Latvia, 2023)"}
+{"We Are One":"Wild Youth (Ireland, 2023)"}
+{"Burning Daylight":"Mia Nicolai & Dion Cooper (Netherlands, 2023)"}
+{"Tell Me More":"TuralTuranX (Azerbaijan, 2023)"}
+{"Dance (Our Own Party)":"The Busker (Malta, 2023)"}
